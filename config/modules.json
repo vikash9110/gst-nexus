@@ -35,12 +35,13 @@
       "description": "Most frequently used sections and rules"
     },
     "fut": {
-      "id": "fut",
-      "title": "Frequently Used Tools",
-      "icon": "🛠️",
-      "badge": 5,
-      "color": "#ff6b35",
-      "description": "PDF tools, calculators, and utilities"
-    }
+  "id": "fut",
+  "title": "Frequently Used Tools",
+  "icon": "🛠️",
+  "badge": 5,
+  "color": "#ff6b35",
+  "description": "PDF tools, calculators, and utilities",
+  "external": "https://vikashisexploringai.github.io/toolbox/"
+}
   }
 }
