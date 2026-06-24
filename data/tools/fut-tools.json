@@ -1,0 +1,36 @@
+{
+  "tools": [
+    {
+      "id": "pdf-merger",
+      "icon": "📄",
+      "name": "PDF Merger",
+      "description": "Merge multiple PDF files into a single document",
+      "isInternal": true,
+      "path": "/modules/pdf-tools/merger.html"
+    },
+    {
+      "id": "pdf-splitter",
+      "icon": "✂️",
+      "name": "PDF Splitter",
+      "description": "Split large PDF files into smaller ones",
+      "isInternal": true,
+      "path": "/modules/pdf-tools/splitter.html"
+    },
+    {
+      "id": "gst-calculator",
+      "icon": "🧮",
+      "name": "GST Calculator",
+      "description": "Calculate GST amount for any value",
+      "isInternal": false,
+      "url": "https://www.cbic.gov.in/gst-calculator"
+    },
+    {
+      "id": "invoice-generator",
+      "icon": "📊",
+      "name": "Invoice Generator",
+      "description": "Generate GST compliant invoices",
+      "isInternal": false,
+      "url": "https://www.cbic.gov.in/invoice"
+    }
+  ]
+}
