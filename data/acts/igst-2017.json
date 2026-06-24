@@ -1,0 +1,21 @@
+{
+  "title": "IGST Act, 2017",
+  "sections": [
+    {
+      "id": "igst1",
+      "number": "1",
+      "heading": "Short Title, Extent and Commencement",
+      "content": "(1) This Act may be called the Integrated Goods and Services Tax Act, 2017.\n\n(2) It extends to the whole of India.\n\n(3) It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.",
+      "references": []
+    },
+    {
+      "id": "igst2",
+      "number": "2",
+      "heading": "Definitions",
+      "content": "In this Act, unless the context otherwise requires—\n(1) \"export of services\" means the supply of any service when—\n(a) the supplier of service is located in India;\n(b) the recipient of service is located outside India;\n(c) the place of supply of service is outside India;\n(d) the payment for such service has been received in convertible foreign exchange; and\n(e) the supplier and recipient are not merely establishments of a distinct person.",
+      "references": [
+        { "type": "section", "id": "s2", "text": "GST Act Section 2" }
+      ]
+    }
+  ]
+}
