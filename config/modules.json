@@ -7,7 +7,7 @@
       "badge": 20,
       "color": "#1a3a5c",
       "description": "Complete GST Act with all sections",
-      "external": "https://www.cbic.gov.in/acts"
+      "external": "https://taxinformation.cbic.gov.in/"
     },
     "gst-rules": {
       "id": "gst-rules",
@@ -16,7 +16,7 @@
       "badge": 15,
       "color": "#2e7d32",
       "description": "All GST Rules and regulations",
-      "external": "https://www.cbic.gov.in/rules"
+      "external": "https://taxinformation.cbic.gov.in/"
     },
     "igst-act": {
       "id": "igst-act",
@@ -24,7 +24,7 @@
       "icon": "🏛️",
       "badge": 10,
       "color": "#c62828",
-      "description": "Integrated GST Act provisions"
+      "description": "Integrated GST Act provision"
     },
     "important": {
       "id": "important",
