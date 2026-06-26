@@ -53,8 +53,10 @@ export class GSTRules {
             <div style="margin-top: 12px; padding: 12px; background: var(--bg-primary); border-radius: var(--radius-sm);">
                 <strong style="font-size: 13px; color: var(--text-muted);">References:</strong>
                 ${references.map(ref => `
-                    <span class="reference-link" data-ref-type="${ref.type}" data-ref-id="${ref.id}" 
-                          onclick="window.app.modal.show('${ref.text}', '<div class=\\'ref-content\\'>Loading reference...</div>')">
+                    <span class="reference-link" 
+                          data-ref-type="${ref.type}" 
+                          data-ref-id="${ref.id}"
+                          onclick="window.app.modal.showReference('${ref.type}', '${ref.id}', '${ref.text}')">
                         ${ref.text} <span class="ref-icon">🔗</span>
                     </span>
                 `).join(' ')}
@@ -89,3 +91,4 @@ export class GSTRules {
         `;
     }
 }
+
