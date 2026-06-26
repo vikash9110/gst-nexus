@@ -27,6 +27,7 @@ export class App {
 
     async init() {
         await this.loadModules();
+        await this.loadReferencedActs();  // ✅ NEW: Load referenced acts
         this.renderDashboard();
         this.setupEventListeners();
         this.loadPins();
@@ -52,6 +53,33 @@ export class App {
                 { id: 'important', title: 'Important Sections & Rules', icon: '⭐', badge: 8, color: '#f9a825' },
                 { id: 'fut', title: 'Frequently Used Tools', icon: '🛠️', badge: 5, color: '#ff6b35' }
             ];
+        }
+    }
+
+    // ✅ NEW METHOD: Load referenced acts from flattened JSON
+    async loadReferencedActs() {
+        try {
+            const response = await fetch('data/acts/referenced-acts.json');
+            const data = await response.json();
+            
+            // Store directly as sections (flattened structure)
+            this.moduleInstances['referenced-acts'] = {
+                data: {
+                    sections: data.sections || [],
+                    title: data.title || 'Referenced Acts'
+                },
+                getSearchData: function() {
+                    return (data.sections || []).map(s => ({
+                        title: `${s.number}. ${s.heading}`,
+                        content: s.content,
+                        id: s.id
+                    }));
+                }
+            };
+            
+            console.log(`✅ Loaded ${data.sections ? data.sections.length : 0} sections from referenced Acts`);
+        } catch (error) {
+            console.log('ℹ️ No referenced Acts loaded (optional)');
         }
     }
 
@@ -175,14 +203,14 @@ export class App {
         this.search.clearHighlights();
     }
 
-    // ✅ NEW: Open full reference from modal
+    // ✅ Open full reference from modal
     openFullReference(refType, refId) {
         this.modal.close();
         
         for (const [moduleId, instance] of Object.entries(this.moduleInstances)) {
             if (instance.data) {
                 let items = [];
-                if (moduleId === 'gst-act' || moduleId === 'igst-act') {
+                if (moduleId === 'gst-act' || moduleId === 'igst-act' || moduleId === 'referenced-acts') {
                     items = instance.data.sections || [];
                 } else if (moduleId === 'gst-rules') {
                     items = instance.data.rules || [];
