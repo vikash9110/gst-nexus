@@ -15,6 +15,7 @@ export class App {
         this.modal = new Modal();
         this.search = new Search(this);
         this.modules = [];
+        this._accordionHandler = null; // Store handler reference
         this.moduleInstances = {
             'gst-act': new GSTAct(this),
             'gst-rules': new GSTRules(this),
@@ -41,7 +42,6 @@ export class App {
             this.modules = Object.values(config.modules);
         } catch (error) {
             console.error('Failed to load modules:', error);
-            // Fallback modules
             this.modules = [
                 { id: 'gst-act', title: 'GST Act, 2017', icon: '📜', badge: 20, color: '#1a3a5c' },
                 { id: 'gst-rules', title: 'GST Rules, 2017', icon: '📋', badge: 15, color: '#2e7d32' },
@@ -66,10 +66,8 @@ export class App {
             </div>
         `).join('');
 
-        // Click handlers for cards
         grid.querySelectorAll('.module-card').forEach(card => {
             card.addEventListener('click', (e) => {
-                // Don't trigger if clicking external link
                 if (e.target.closest('.external-link')) return;
                 const moduleId = card.dataset.module;
                 const module = this.modules.find(m => m.id === moduleId);
@@ -89,7 +87,6 @@ export class App {
         this.state.set('currentModule', moduleId);
         this.state.set('currentView', 'module');
 
-        // Show module view
         document.getElementById('dashboardGrid').style.display = 'none';
         document.getElementById('moduleView').style.display = 'block';
         document.getElementById('moduleTitle').textContent = module.title;
@@ -102,7 +99,10 @@ export class App {
             if (instance) {
                 const html = await instance.render();
                 content.innerHTML = html;
-                // Add to search index
+                
+                // ✅ Setup accordion handlers
+                this.setupAccordionHandlers();
+                
                 if (instance.getSearchData) {
                     this.search.indexModule(moduleId, instance.getSearchData());
                 }
@@ -113,9 +113,30 @@ export class App {
             console.error('Error loading module:', error);
             content.innerHTML = '<div class="empty-state"><span class="empty-icon">❌</span><h3>Failed to load module</h3></div>';
         }
+    }
 
-        // Scroll to top
-        document.querySelector('.main-content').scrollTop = 0;
+    // ✅ NEW METHOD: Setup accordion click handlers
+    setupAccordionHandlers() {
+        const headers = document.querySelectorAll('.band-header');
+        
+        headers.forEach(header => {
+            // Remove existing listener if any
+            if (this._accordionHandler) {
+                header.removeEventListener('click', this._accordionHandler);
+            }
+            
+            // Add new listener
+            header.addEventListener('click', this._accordionHandler = (e) => {
+                const targetId = header.dataset.target;
+                const content = document.getElementById(targetId);
+                
+                if (!content) return;
+                
+                // Toggle active state
+                header.classList.toggle('active');
+                content.classList.toggle('open');
+            });
+        });
     }
 
     goBackToDashboard() {
@@ -129,27 +150,22 @@ export class App {
     }
 
     setupEventListeners() {
-        // Back button
         document.getElementById('backToDashboard').addEventListener('click', () => {
             this.goBackToDashboard();
         });
 
-        // Theme toggle
         document.getElementById('themeToggle').addEventListener('click', () => {
             this.toggleTheme();
         });
 
-        // Pin toggle
         document.getElementById('pinToggle').addEventListener('click', () => {
             this.togglePinboard();
         });
 
-        // Add pin button
         document.getElementById('addPinBtn').addEventListener('click', () => {
             this.showAddPinDialog();
         });
 
-        // Module search
         document.getElementById('moduleSearch').addEventListener('input', (e) => {
             const query = e.target.value.trim();
             if (query.length >= 2) {
@@ -160,7 +176,6 @@ export class App {
             }
         });
 
-        // Global search
         document.getElementById('globalSearch').addEventListener('input', (e) => {
             const query = e.target.value.trim();
             if (query.length >= 2) {
@@ -170,12 +185,10 @@ export class App {
             }
         });
 
-        // Export button
         document.getElementById('exportBtn').addEventListener('click', () => {
             this.exportCurrentModule();
         });
 
-        // Print button
         document.getElementById('printBtn').addEventListener('click', () => {
             window.print();
         });
@@ -217,7 +230,6 @@ export class App {
             </span>
         `).join('');
 
-        // Pin click handlers
         pinsList.querySelectorAll('.pin-item').forEach(item => {
             item.addEventListener('click', (e) => {
                 if (e.target.closest('.remove-pin')) return;
@@ -229,7 +241,6 @@ export class App {
             });
         });
 
-        // Remove pin handlers
         pinsList.querySelectorAll('.remove-pin').forEach(btn => {
             btn.addEventListener('click', (e) => {
                 e.stopPropagation();
@@ -254,12 +265,10 @@ export class App {
     }
 
     showAddPinDialog() {
-        // Show a simple dialog to pin current module
         const currentModule = this.state.get('currentModule');
         if (currentModule) {
             this.addPin(currentModule);
         } else {
-            // Show list of modules to pin
             const modules = this.modules.filter(m => !this.state.isPinned(m.id));
             if (modules.length === 0) {
                 this.showToast('All modules are already pinned!');
@@ -292,12 +301,10 @@ export class App {
 
     setupKeyboardShortcuts() {
         document.addEventListener('keydown', (e) => {
-            // Cmd+K or Ctrl+K for search focus
             if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
                 e.preventDefault();
                 document.getElementById('globalSearch').focus();
             }
-            // Escape to close modal or go back
             if (e.key === 'Escape') {
                 if (this.modal.isOpen()) {
                     this.modal.close();
@@ -316,7 +323,6 @@ export class App {
         const html = content.innerHTML;
         const title = document.getElementById('moduleTitle').textContent;
         
-        // Create a printable version
         const printWindow = window.open('', '_blank');
         printWindow.document.write(`
             <html>
@@ -362,8 +368,4 @@ export class App {
     }
 }
 
-// Make app accessible globally for inline handlers
 window.app = null;
-document.addEventListener('DOMContentLoaded', () => {
-    // App is initialized via module import
-});
