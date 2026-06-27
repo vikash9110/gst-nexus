@@ -86,6 +86,39 @@
     margin: 8px 0;
 }
 
+/* Table styles for content */
+.accordion-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 12px 0;
+    font-size: 14px;
+}
+
+.accordion-content table th {
+    background: var(--bg-primary);
+    font-weight: 600;
+    text-align: left;
+    padding: 10px 12px;
+    border: 1px solid var(--border-color);
+}
+
+.accordion-content table td {
+    padding: 8px 12px;
+    border: 1px solid var(--border-color);
+}
+
+.accordion-content table tr:nth-child(even) {
+    background: var(--bg-primary);
+}
+
+/* Dark theme table styles */
+[data-theme="dark"] .accordion-content table th {
+    background: var(--bg-card);
+}
+
+[data-theme="dark"] .accordion-content table tr:nth-child(even) {
+    background: var(--bg-card);
+}
 
 /* ============================================
    2. REFERENCE LINKS
