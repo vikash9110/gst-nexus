@@ -1638,6 +1638,286 @@
       "text": "Section 49"
     }
   ]
+},
+    {
+  "id": "r61A",
+  "number": "61A",
+  "heading": "Manner of opting for furnishing quarterly return",
+  "content": "(1) Every registered person intending to furnish return on a quarterly basis under proviso to sub-section (1) of section 39, shall in accordance with the conditions and restrictions notified in this regard, indicate his preference for furnishing of return on a quarterly basis, electronically, on the common portal, from the 1st day of the second month of the preceding quarter till the last day of the first month of the quarter for which the option is being exercised:\n\nProvided that where such option has been exercised once, the said registered person shall continue to furnish the return on a quarterly basis for future tax periods, unless the said registered person,-\n(a) becomes ineligible for furnishing the return on a quarterly basis as per the conditions and restrictions notified in this regard; or\n(b) opts for furnishing of return on a monthly basis, electronically, on the common portal:\n\nProvided further that a registered person shall not be eligible to opt for furnishing quarterly return in case the last return due on the date of exercising such option has not been furnished.\n\n(2) A registered person, whose aggregate turnover exceeds 5 crore rupees during the current financial year, shall opt for furnishing of return on a monthly basis, electronically, on the common portal, from the first month of the quarter, succeeding the quarter during which his aggregate turnover exceeds 5 crore rupees.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s39",
+      "text": "Section 39"
+    }
+  ]
+},
+{
+  "id": "r62",
+  "number": "62",
+  "heading": "Form and manner of submission of statement and return",
+  "content": "(1) Every registered person paying tax under section 10 shall-\n(i) furnish a statement, every quarter or, as the case may be, part thereof, containing the details of payment of self-assessed tax in FORM GST CMP-08, till the 18th day of the month succeeding such quarter; and\n(ii) furnish a return for every financial year or, as the case may be, part thereof in FORM GSTR-4, till the thirtieth day of April following the end of such financial year, electronically through the common portal, either directly or through a Facilitation Centre notified by the Commissioner.\nProvided that the return in FORM GSTR-4 for a financial year from FY 2024-25 onwards shall be required to be furnished by the registered person till the thirtieth day of June following the end of such financial year.\n\n(2) Every registered person furnishing the statement under sub-rule (1) shall discharge his liability towards tax or interest payable under the Act or the provisions of this Chapter by debiting the electronic cash ledger.\n\n(3) The return furnished under sub-rule (1) shall include the-\n(a) invoice wise inter-State and intra-State inward supplies received from registered and un-registered persons; and\n(b) consolidated details of outward supplies made.\n\n(4) A registered person who has opted to pay tax under section 10 from the beginning of a financial year shall, where required, furnish the details of outward and inward supplies and return under rules 59, 60 and 61 relating to the period during which the person was liable to furnish such details and returns till the due date of furnishing the return for the month of September of the succeeding financial year or furnishing of annual return of the preceding financial year, whichever is earlier.\nExplanation. - For the purposes of this sub-rule, it is hereby declared that the person shall not be eligible to avail input tax credit on receipt of invoices or debit notes from the supplier for the period prior to his opting for the composition scheme.\n\n(5) A registered person opting to withdraw from the composition scheme at his own motion or where option is withdrawn at the instance of the proper officer shall, where required, furnish a statement in FORM GST CMP-08 for the period for which he has paid tax under the composition scheme till the 18th day of the month succeeding the quarter in which the date of withdrawal falls and furnish a return in FORM GSTR-4 for the said period till the thirtieth day of April following the end of the financial year during which such withdrawal falls.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s10",
+      "text": "Section 10"
+    },
+    {
+      "type": "rule",
+      "id": "r59",
+      "text": "Rule 59"
+    },
+    {
+      "type": "rule",
+      "id": "r60",
+      "text": "Rule 60"
+    },
+    {
+      "type": "rule",
+      "id": "r61",
+      "text": "Rule 61"
+    }
+  ]
+},
+{
+  "id": "r63",
+  "number": "63",
+  "heading": "Form and manner of submission of return by non-resident taxable person",
+  "content": "Every registered non-resident taxable person shall furnish a return in FORM GSTR-5 electronically through the common portal, either directly or through a Facilitation Centre notified by the Commissioner, including therein the details of outward supplies and inward supplies and shall pay the tax, interest, penalty, fees or any other amount payable under the Act or the provisions of this Chapter within twenty days after the end of a tax period or within seven days after the last day of the validity period of registration, whichever is earlier.",
+  "references": []
+},
+{
+  "id": "r64",
+  "number": "64",
+  "heading": "Form and manner of submission of return by persons providing online information and database access or retrieval services and by persons supplying online money gaming from a place outside India to a person in India",
+  "content": "Every registered person either providing online money gaming from a place outside India to a person in India, or providing online information and database access or retrieval services from a place outside India to a non-taxable online recipient referred to in section 14 of the Integrated Goods and Services Tax Act, 2017 (13 of 2017) or to a registered person other than a non-taxable online recipient, shall file return in FORM GSTR-5A on or before the twentieth day of the month succeeding the calendar month or part thereof.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s14",
+      "text": "Section 14 (IGST Act)"
+    }
+  ]
+},
+{
+  "id": "r65",
+  "number": "65",
+  "heading": "Form and manner of submission of return by an Input Service Distributor",
+  "content": "Every Input Service Distributor shall, on the basis of details contained in FORM GSTR-6A, and where required, after adding, correcting or deleting the details, furnish electronically the return in FORM GSTR-6, containing the details of tax invoices on which credit has been received and those issued under section 20, through the common portal either directly or from a Facilitation Centre notified by the Commissioner.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s20",
+      "text": "Section 20"
+    }
+  ]
+},
+{
+  "id": "r66",
+  "number": "66",
+  "heading": "Form and manner of submission of return by a person required to deduct tax at source",
+  "content": "(1) Every registered person required to deduct tax at source under section 51 (hereafter in this rule referred to as deductor) shall furnish a return in FORM GSTR-7, on or before the tenth day of the month succeeding the calendar month, electronically through the common portal either directly or from a Facilitation Centre notified by the Commissioner.\n\n(2) The details furnished by the deductor under sub-rule (1) shall be made available electronically to each of the deductees on the common portal after filing of FORM GSTR-7 for claiming the amount of tax deducted in his electronic cash ledger after validation.\n\n(3) The certificate referred to in sub-section (3) of section 51 shall be made available electronically to the deductee on the common portal in FORM GSTR-7A on the basis of the return furnished under sub-rule (1).",
+  "references": [
+    {
+      "type": "section",
+      "id": "s51",
+      "text": "Section 51"
+    }
+  ]
+},
+    {
+  "id": "r67A",
+  "number": "67A",
+  "heading": "Manner of furnishing of return or details of outward supplies by short messaging service facility",
+  "content": "Notwithstanding anything contained in this Chapter, for a registered person who is required to furnish a Nil return under section 39 in FORM GSTR-3B or a Nil details of outward supplies under section 37 in FORM GSTR-1 or a Nil statement in FORM GST CMP-08 for a tax period, any reference to electronic furnishing shall include furnishing of the said return or the details of outward supplies or statement through a short messaging service using the registered mobile number and the said return or the details of outward supplies or statement shall be verified by a registered mobile number based One Time Password facility.\n\nExplanation. - For the purpose of this rule, a nil return or nil details of outward supplies or nil statement shall mean a return under section 39 or details of outward supplies under section 37 or statement under rule 62, for a tax period that has nil or no entry in all the Tables in FORM GSTR-3B or FORM GSTR-1 or FORM GST CMP-08, as the case may be.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s39",
+      "text": "Section 39"
+    },
+    {
+      "type": "section",
+      "id": "s37",
+      "text": "Section 37"
+    },
+    {
+      "type": "rule",
+      "id": "r62",
+      "text": "Rule 62"
+    }
+  ]
+},
+{
+  "id": "r68",
+  "number": "68",
+  "heading": "Notice to non-filers of returns",
+  "content": "A notice in FORM GSTR-3A shall be issued, electronically, to a registered person who fails to furnish return under section 39 or section 44 or section 45 or section 52.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s39",
+      "text": "Section 39"
+    },
+    {
+      "type": "section",
+      "id": "s44",
+      "text": "Section 44"
+    },
+    {
+      "type": "section",
+      "id": "s45",
+      "text": "Section 45"
+    },
+    {
+      "type": "section",
+      "id": "s52",
+      "text": "Section 52"
+    }
+  ]
+},
+{
+  "id": "r69",
+  "number": "69",
+  "heading": "Omitted",
+  "content": "[Omitted]",
+  "references": []
+},
+{
+  "id": "r70",
+  "number": "70",
+  "heading": "Omitted",
+  "content": "[Omitted]",
+  "references": []
+},
+{
+  "id": "r71",
+  "number": "71",
+  "heading": "Omitted",
+  "content": "[Omitted]",
+  "references": []
+},
+{
+  "id": "r72",
+  "number": "72",
+  "heading": "Omitted",
+  "content": "[Omitted]",
+  "references": []
+},
+{
+  "id": "r73",
+  "number": "73",
+  "heading": "Omitted",
+  "content": "[Omitted]",
+  "references": []
+},
+{
+  "id": "r74",
+  "number": "74",
+  "heading": "Omitted",
+  "content": "[Omitted]",
+  "references": []
+},
+{
+  "id": "r75",
+  "number": "75",
+  "heading": "Omitted",
+  "content": "[Omitted]",
+  "references": []
+},
+{
+  "id": "r76",
+  "number": "76",
+  "heading": "Omitted",
+  "content": "[Omitted]",
+  "references": []
+},
+{
+  "id": "r77",
+  "number": "77",
+  "heading": "Omitted",
+  "content": "[Omitted]",
+  "references": []
+},
+    {
+  "id": "r80",
+  "number": "80",
+  "heading": "Annual return",
+  "content": "(1) Every registered person, other than those referred to in the second proviso to section 44, an Input Service Distributor, a person paying tax under section 51 or section 52, a casual taxable person and a non-resident taxable person, shall furnish an annual return for every financial year as specified under section 44 electronically in FORM GSTR-9 on or before the thirty-first day of December following the end of such financial year through the common portal either directly or through a Facilitation Centre notified by the Commissioner:\n\nProvided that a person paying tax under section 10 shall furnish the annual return in FORM GSTR-9A.\n\n(1A) Notwithstanding anything contained in sub-rule (1), for the financial year 2020-2021 the said annual return shall be furnished on or before the twenty-eighth day of February, 2022.\n\n(2) Every electronic commerce operator required to collect tax at source under section 52 shall furnish annual statement referred to in sub-section (5) of the said section in FORM GSTR-9B.\n\n(3) Every registered person, other than those referred to in the second proviso to section 44, an Input Service Distributor, a person paying tax under section 51 or section 52, a casual taxable person and a non-resident taxable person, whose aggregate turnover during a financial year exceeds five crore rupees, shall also furnish a self-certified reconciliation statement as specified under section 44 in FORM GSTR-9C along with the annual return referred to in sub-rule (1), on or before the thirty-first day of December following the end of such financial year, electronically through the common portal either directly or through a Facilitation Centre notified by the Commissioner.\n\n(3A) Notwithstanding anything contained in sub-rule (3), for the financial year 2020-2021 the said self-certified reconciliation statement shall be furnished along with the said annual return on or before the twenty-eighth day of February, 2022.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s44",
+      "text": "Section 44"
+    },
+    {
+      "type": "section",
+      "id": "s51",
+      "text": "Section 51"
+    },
+    {
+      "type": "section",
+      "id": "s52",
+      "text": "Section 52"
+    },
+    {
+      "type": "section",
+      "id": "s10",
+      "text": "Section 10"
+    }
+  ]
+},
+    {
+  "id": "r81",
+  "number": "81",
+  "heading": "Final return",
+  "content": "Every registered person required to furnish a final return under section 45, shall furnish such return electronically in FORM GSTR-10 through the common portal either directly or through a Facilitation Centre notified by the Commissioner.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s45",
+      "text": "Section 45"
+    }
+  ]
+},
+    {
+  "id": "r82",
+  "number": "82",
+  "heading": "Details of inward supplies of persons having Unique Identity Number",
+  "content": "(1) Every person who has been issued a Unique Identity Number and claims refund of the taxes paid on his inward supplies, shall furnish the details of such supplies of taxable goods or services or both electronically in FORM GSTR-11, along with application for such refund claim, through the common portal either directly or through a Facilitation Centre notified by the Commissioner.\n\n(2) Every person who has been issued a Unique Identity Number for purposes other than refund of the taxes paid shall furnish the details of inward supplies of taxable goods or services or both as may be required by the proper officer in FORM GSTR-11.",
+  "references": []
+},
+    {
+  "id": "r83",
+  "number": "83",
+  "heading": "Provisions relating to a goods and services tax practitioner",
+  "content": "(1) An application in FORM GST PCT-01 may be made electronically through the common portal either directly or through a Facilitation Centre notified by the Commissioner for enrolment as goods and services tax practitioner by any person who,\n(i) is a citizen of India;\n(ii) is a person of sound mind;\n(iii) is not adjudicated as insolvent;\n(iv) has not been convicted by a competent court;\nand satisfies any of the following conditions, namely:-\n(a) that he is a retired officer of the Commercial Tax Department of any State Government or of the Central Board of Indirect Taxes and Customs, Department of Revenue, Government of India, who, during his service under the Government, had worked in a post not lower than the rank of a Group-B gazetted officer for a period of not less than two years; or\n(b) that he has enrolled as a sales tax practitioner or tax return preparer under the existing law for a period of not less than five years;\n(c) he has passed,\n(i) a graduate or postgraduate degree or its equivalent examination having a degree in Commerce, Law, Banking including Higher Auditing, or Business Administration or Business Management from any Indian University established by any law for the time being in force; or\n(ii) a degree examination of any Foreign University recognised by any Indian University as equivalent to the degree examination mentioned in sub-clause (i); or\n(iii) any other examination notified by the Government, on the recommendation of the Council, for this purpose; or\n(iv) has passed any of the following examinations, namely:-\n(a) final examination of the Institute of Chartered Accountants of India; or\n(b) final examination of the Institute of Cost Accountants of India; or\n(c) final examination of the Institute of Company Secretaries of India.\n\n(2) On receipt of the application referred to in sub-rule (1), the officer authorised in this behalf shall, after making such enquiry as he considers necessary, either enrol the applicant as a goods and services tax practitioner and issue a certificate to that effect in FORM GST PCT-02 or reject his application where it is found that the applicant is not qualified to be enrolled as a goods and services tax practitioner.\n\n(3) The enrolment made under sub-rule (2) shall be valid until it is cancelled:\nProvided that no person enrolled as a goods and services tax practitioner shall be eligible to remain enrolled unless he passes such examination conducted at such periods and by such authority as may be notified by the Commissioner on the recommendations of the Council:\nProvided further that no person to whom the provisions of clause (b) of sub-rule (1) apply shall be eligible to remain enrolled unless he passes the said examination within a period of thirty months from the appointed date.\n\n(4) If any goods and services tax practitioner is found guilty of misconduct in connection with any proceedings under the Act, the authorised officer may, after giving him a notice to show cause in FORM GST PCT-03 for such misconduct and after giving him a reasonable opportunity of being heard, by order in FORM GST PCT-04 direct that he shall henceforth be disqualified under section 48 to function as a goods and services tax practitioner.\n\n(5) Any person against whom an order under sub-rule (4) is made may, within thirty days from the date of issue of such order, appeal to the Commissioner against such order.\n\n(6) Any registered person may, at his option, authorise a goods and services tax practitioner on the common portal in FORM GST PCT-05 or, at any time, withdraw such authorisation in FORM GST PCT-05 and the goods and services tax practitioners authorised shall be allowed to undertake such tasks as indicated in the said authorisation during the period of authorisation.\n\n(7) Where a statement required to be furnished by a registered person has been furnished by the goods and services tax practitioner authorised by him, a confirmation shall be sought from the registered person over email or SMS and the statement furnished by the goods and services tax practitioner shall be made available to the registered person on the common portal:\nProvided that where the registered person fails to respond to the request for confirmation till the last date of furnishing of such statement, it shall be deemed that he has confirmed the statement furnished by the goods and services tax practitioner.\n\n(8) A goods and services tax practitioner can undertake any or all of the following activities on behalf of a registered person, if so authorised by him to-\n(a) furnish the details of outward supplies;\n(b) furnish monthly, quarterly, annual or final return;\n(c) make deposit for credit into the electronic cash ledger;\n(d) file a claim for refund;\n(e) file an application for amendment or cancellation of registration;\n(f) furnish information for generation of e-way bill;\n(g) furnish details of challan in FORM GST ITC-04;\n(h) file an application for amendment or cancellation of enrolment under rule 58; and\n(i) file an intimation to pay tax under the composition scheme or withdraw from the said scheme:\nProvided that where any application relating to a claim for refund or an application for amendment or cancellation of registration or where an intimation to pay tax under composition scheme or to withdraw from such scheme has been submitted by the goods and services tax practitioner authorised by the registered person, a confirmation shall be sought from the registered person and the application submitted by the said practitioner shall be made available to the registered person on the common portal and such application shall not be further proceeded with until the registered person gives his consent to the same.\n\n(9) Any registered person opting to furnish his return through a goods and services tax practitioner shall-\n(a) give his consent in FORM GST PCT-05 to any goods and services tax practitioner to prepare and furnish his return; and\n(b) before confirming submission of any statement prepared by the goods and services tax practitioner, ensure that the facts mentioned in the return are true and correct.\n\n(10) The goods and services tax practitioner shall-\n(a) prepare the statements with due diligence; and\n(b) affix his digital signature on the statements prepared by him or electronically verify using his credentials.\n\n(11) A goods and services tax practitioner enrolled in any other State or Union territory shall be treated as enrolled in the State or Union territory for the purposes specified in sub-rule (8).",
+  "references": [
+    {
+      "type": "section",
+      "id": "s48",
+      "text": "Section 48"
+    },
+    {
+      "type": "rule",
+      "id": "r58",
+      "text": "Rule 58"
+    }
+  ]
+},
+    {
+  "id": "r83A",
+  "number": "83A",
+  "heading": "Examination of Goods and Services Tax Practitioners",
+  "content": "(1) Every person referred to in clause (b) of sub-rule (1) of rule 83 and who is enrolled as a goods and services tax practitioner under sub-rule (2) of the said rule, shall pass an examination as per sub-rule (3) of the said rule.\n\n(2) The National Academy of Customs, Indirect Taxes and Narcotics (hereinafter referred to as \"NACIN\") shall conduct the examination.\n\n(3) Frequency of examination.- The examination shall be conducted twice in a year as per the schedule of the examination published by NACIN every year on the official websites of the Board, NACIN, common portal, GST Council Secretariat and in the leading English and regional newspapers.\n\n(4) Registration for the examination and payment of fee.- (i) A person who is required to pass the examination shall register online on a website specified by NACIN.\n(ii) A person who registers for the examination shall pay examination fee as specified by NACIN, and the amount for the same and the manner of its payment shall be specified by NACIN on the official websites of the Board, NACIN and common portal.\n\n(5) Examination centers.- The examination shall be held across India at the designated centers. The candidate shall be given an option to choose from the list of centers as provided by NACIN at the time of registration.\n\n(6) Period for passing the examination and number of attempts allowed.-\n(i) Every person referred to in clause (b) of sub-rule (1) of rule 83 and who is enrolled as a goods and services tax practitioner under sub-rule (2) of the said rule is required to pass the examination within the period as specified in the second proviso of sub-rule (3) of the said rule.\n(ii) A person required to pass the examination may avail of any number of attempts but these attempts shall be within the period as specified in clause (i).\n(iii) A person shall register and pay the requisite fee every time he intends to appear at the examination.\n(iv) In case the goods and services tax practitioner having applied for appearing in the examination is prevented from availing one or more attempts due to unforeseen circumstances such as critical illness, accident or natural calamity, he may make a request in writing to the jurisdictional Commissioner for granting him one additional attempt to pass the examination, within thirty days of conduct of the said examination. NACIN may consider such requests on merits based on recommendations of the jurisdictional Commissioner.\n\n(7) Nature of examination.- The examination shall be a Computer Based Test. It shall have one question paper consisting of Multiple Choice Questions. The pattern and syllabus are specified in Annexure-A.\n\n(8) Qualifying marks. - A person shall be required to secure fifty per cent. of the total marks.\n\n(9) Guidelines for the candidates.-\n(i) NACIN shall issue examination guidelines covering issues such as procedure of registration, payment of fee, nature of identity documents, provision of admit card, manner of reporting at the examination center, prohibition on possession of certain items in the examination center, procedure of making representation and the manner of its disposal.\n(ii) Any person who is or has been found to be indulging in unfair means or practices shall be dealt in accordance with the provisions of sub-rule (10). An illustrative list of use of unfair means or practices by a person is as under: -\n(a) obtaining support for his candidature by any means;\n(b) impersonating;\n(c) submitting fabricated documents;\n(d) resorting to any unfair means or practices in connection with the examination or in connection with the result of the examination;\n(e) found in possession of any paper, book, note or any other material, the use of which is not permitted in the examination center;\n(f) communicating with others or exchanging calculators, chits, papers etc. (on which something is written);\n(g) misbehaving in the examination center in any manner;\n(h) tampering with the hardware and/or software deployed; and\n(i) attempting to commit or, as the case may be, to abet in the commission of all or any of the acts specified in the foregoing clauses.\n\n(10) Disqualification of person using unfair means or practice. - If any person is or has been found to be indulging in use of unfair means or practices, NACIN may, after considering his representation, if any, declare him disqualified for the examination.\n\n(11) Declaration of result.- NACIN shall declare the results within one month of the conduct of examination on the official websites of the Board, NACIN, GST Council Secretariat, common portal and State Tax Department of the respective States or Union territories, if any. The results shall also be communicated to the applicants by e-mail and/or by post.\n\n(12) Handling representations.- A person not satisfied with his result may represent in writing, clearly specifying the reasons therein to NACIN or the jurisdictional Commissioner as per the procedure established by NACIN on the official websites of the Board, NACIN and common portal.\n\n(13) Power to relax. - Where the Board or State Tax Commissioner is of the opinion that it is necessary or expedient to do so, it may, on the recommendations of the Council, relax any of the provisions of this rule with respect to any class or category of persons.\nExplanation :- For the purposes of this sub-rule, the expressions -\n(a) \"jurisdictional Commissioner\" means the Commissioner having jurisdiction over the place declared as address in the application for enrolment as the GST Practitioner in FORM GST PCT-1. It shall refer to the Commissioner of Central Tax if the enrolling authority in FORM GST PCT-1 has been selected as Centre, or the Commissioner of State Tax if the enrolling authority in FORM GST PCT-1 has been selected as State;\n(b) NACIN means as notified by notification No. 24/2018-Central Tax, dated 28.05.2018.\n\nAnnexure-A [See sub-rule 7] Pattern and Syllabus of the Examination\nPAPER: GST Law & Procedures:\nTime allowed: 2 hours and 30 minutes\nNumber of Multiple Choice Questions: 100\nLanguage of Questions: English and Hindi\nMaximum marks: 200\nQualifying marks: 100\nNo negative marking\n\nSyllabus:\n1. The Central Goods and Services Tax Act, 2017\n2. The Integrated Goods and Services Tax Act, 2017\n3. All The State Goods and Services Tax Acts, 2017\n4. The Union territory Goods and Services Tax Act, 2017\n5. The Goods and Services Tax (Compensation to States) Act, 2017\n6. The Central Goods and Services Tax Rules, 2017\n7. The Integrated Goods and Services Tax Rules, 2017\n8. All The State Goods and Services Tax Rules, 2017\n9. Notifications, Circulars and orders issued from time to time under the said Acts and Rules.",
+  "references": [
+    {
+      "type": "rule",
+      "id": "r83",
+      "text": "Rule 83"
+    }
+  ]
 }
   ]
 }
