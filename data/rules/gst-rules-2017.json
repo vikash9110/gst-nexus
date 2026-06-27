@@ -757,6 +757,222 @@
       "text": "Rule 31"
     }
   ]
+},
+    {
+  "id": "r28",
+  "number": "28",
+  "heading": "Value of supply of goods or services or both between distinct or related persons, other than through an agent",
+  "content": "(1) The value of the supply of goods or services or both between distinct persons as specified in sub-section (4) and (5) of section 25 or where the supplier and recipient are related, other than where the supply is made through an agent, shall-\n(a) be the open market value of such supply;\n(b) if the open market value is not available, be the value of supply of goods or services of like kind and quality;\n(c) if the value is not determinable under clause (a) or (b), be the value as determined by the application of rule 30 or rule 31, in that order:\nProvided that where the goods are intended for further supply as such by the recipient, the value shall, at the option of the supplier, be an amount equivalent to ninety percent of the price charged for the supply of goods of like kind and quality by the recipient to his customer not being a related person:\nProvided further that where the recipient is eligible for full input tax credit, the value declared in the invoice shall be deemed to be the open market value of the goods or services.\n\n(2) Notwithstanding anything contained in sub-rule (1), the value of supply of services by a supplier to a recipient who is a related person located in India, by way of providing corporate guarantee to any banking company or financial institution on behalf of the said recipient, shall be deemed to be one per cent of the amount of such guarantee offered per annum, or the actual consideration, whichever is higher:\nProvided that where the recipient is eligible for full input tax credit, the value declared in the invoice shall be deemed to be the value of said supply of services.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s25",
+      "text": "Section 25"
+    },
+    {
+      "type": "rule",
+      "id": "r30",
+      "text": "Rule 30"
+    },
+    {
+      "type": "rule",
+      "id": "r31",
+      "text": "Rule 31"
+    }
+  ]
+},
+{
+  "id": "r29",
+  "number": "29",
+  "heading": "Value of supply of goods made or received through an agent",
+  "content": "The value of supply of goods between the principal and his agent shall-\n(a) be the open market value of the goods being supplied, or at the option of the supplier, be ninety percent of the price charged for the supply of goods of like kind and quality by the recipient to his customer not being a related person, where the goods are intended for further supply by the said recipient.\n\nIllustration: A principal supplies groundnut to his agent and the agent is supplying groundnuts of like kind and quality in subsequent supplies at a price of five thousand rupees per quintal on the day of the supply. Another independent supplier is supplying groundnuts of like kind and quality to the said agent at the price of four thousand five hundred and fifty rupees per quintal. The value of the supply made by the principal shall be four thousand five hundred and fifty rupees per quintal or where he exercises the option, the value shall be 90 percent of five thousand rupees i.e., four thousand five hundred rupees per quintal.\n\n(b) where the value of a supply is not determinable under clause (a), the same shall be determined by the application of rule 30 or rule 31 in that order.",
+  "references": [
+    {
+      "type": "rule",
+      "id": "r30",
+      "text": "Rule 30"
+    },
+    {
+      "type": "rule",
+      "id": "r31",
+      "text": "Rule 31"
+    }
+  ]
+},
+{
+  "id": "r30",
+  "number": "30",
+  "heading": "Value of supply of goods or services or both based on cost",
+  "content": "Where the value of a supply of goods or services or both is not determinable by any of the preceding rules of this Chapter, the value shall be one hundred and ten percent of the cost of production or manufacture or the cost of acquisition of such goods or the cost of provision of such services.",
+  "references": []
+},
+{
+  "id": "r31",
+  "number": "31",
+  "heading": "Residual method for determination of value of supply of goods or services or both",
+  "content": "Where the value of supply of goods or services or both cannot be determined under rules 27 to 30, the same shall be determined using reasonable means consistent with the principles and the general provisions of section 15 and the provisions of this Chapter:\n\nProvided that in the case of supply of services, the supplier may opt for this rule, ignoring rule 30.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s15",
+      "text": "Section 15"
+    },
+    {
+      "type": "rule",
+      "id": "r27",
+      "text": "Rule 27"
+    },
+    {
+      "type": "rule",
+      "id": "r28",
+      "text": "Rule 28"
+    },
+    {
+      "type": "rule",
+      "id": "r29",
+      "text": "Rule 29"
+    },
+    {
+      "type": "rule",
+      "id": "r30",
+      "text": "Rule 30"
+    }
+  ]
+},
+{
+  "id": "r31A",
+  "number": "31A",
+  "heading": "Value of supply in case of lottery, betting, gambling and horse racing",
+  "content": "(1) Notwithstanding anything contained in the provisions of this Chapter, the value in respect of supplies specified below shall be determined in the manner provided hereinafter.\n\n(2) The value of supply of lottery shall be deemed to be 100/140 of the face value of ticket or of the price as notified in the Official Gazette by the Organising State, whichever is higher.\nExplanation :- For the purposes of this sub-rule, the expression \"Organising State\" has the same meaning as assigned to it in clause (f) of sub-rule (1) of rule 2 of the Lotteries (Regulation) Rules, 2010.\n\n(3) The value of supply of actionable claim in the form of chance to win in betting, gambling or horse racing in a race club shall be 100% of the face value of the bet or the amount paid into the totalisator.",
+  "references": []
+},
+    {
+  "id": "r31B",
+  "number": "31B",
+  "heading": "Value of supply in case of online gaming including online money gaming",
+  "content": "Notwithstanding anything contained in this Chapter, the value of supply of online gaming, including supply of actionable claims involved in online money gaming, shall be the total amount paid or payable to or deposited with the supplier by way of money or money's worth, including virtual digital assets, by or on behalf of the player:\n\nProvided that any amount returned or refunded by the supplier to the player for any reasons whatsoever, including player not using the amount paid or deposited with the supplier for participating in any event, shall not be deductible from the value of supply of online money gaming.",
+  "references": []
+},
+    {
+  "id": "r31C",
+  "number": "31C",
+  "heading": "Value of supply of actionable claims in case of casino",
+  "content": "Notwithstanding anything contained in this Chapter, the value of supply of actionable claims in casino shall be the total amount paid or payable by or on behalf of the player for –\n(i) purchase of the tokens, chips, coins or tickets, by whatever name called, for use in casino; or\n(ii) participating in any event, including game, scheme, competition or any other activity or process, in the casino, in cases where the token, chips, coins or tickets, by whatever name called, are not required:\n\nProvided that any amount returned or refunded by the casino to the player on return of token, coins, chips, or tickets, as the case may be, or otherwise, shall not be deductible from the value of the supply of actionable claims in casino.\n\nExplanation.-For the purpose of rule 31B and rule 31C, any amount received by the player by winning any event, including game, scheme, competition or any other activity or process, which is used for playing by the said player in a further event without withdrawing, shall not be considered as the amount paid to or deposited with the supplier by or on behalf of the said player.",
+  "references": [
+    {
+      "type": "rule",
+      "id": "r31B",
+      "text": "Rule 31B"
+    }
+  ]
+},
+    {
+  "id": "r31D",
+  "number": "31D",
+  "heading": "Value of supply of goods on basis of retail sale price",
+  "content": "(1) Notwithstanding anything contained in the provisions of this Chapter, the value of supply of goods bearing the description specified in column (3), falling under the corresponding Chapter/heading/sub-heading/tariff item specified in column (2), of the Table below, shall be deemed to be the retail sale price declared on such goods, less the amount of tax as applicable, namely: -\n\n<table border=\"1\" cellpadding=\"8\" cellspacing=\"0\" style=\"border-collapse: collapse; width: 100%; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #f2f2f2;\">\n      <th style=\"border: 1px solid #ddd; padding: 8px; text-align: center;\">S. No.</th>\n      <th style=\"border: 1px solid #ddd; padding: 8px; text-align: center;\">Chapter / Heading / Sub-heading / Tariff item</th>\n      <th style=\"border: 1px solid #ddd; padding: 8px; text-align: center;\">Description of Goods</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px; text-align: center;\">1.</td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">2106 90 20</td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Pan masala</td>\n    </tr>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px; text-align: center;\">2.</td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">2401</td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Unmanufactured tobacco; tobacco refuse [other than tobacco leaves]</td>\n    </tr>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px; text-align: center;\">3.</td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">2402</td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes</td>\n    </tr>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px; text-align: center;\">4.</td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">2403</td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Other manufactured tobacco and manufactured tobacco substitutes; \"homogenised\" or \"reconstituted\" tobacco; tobacco extracts and essences (other than biris)</td>\n    </tr>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px; text-align: center;\">5.</td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">2404 11 00</td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Products containing tobacco or reconstituted tobacco and intended for inhalation without combustion</td>\n    </tr>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px; text-align: center;\">6.</td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">2404 19 00</td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Products containing tobacco or nicotine substitutes and intended for inhalation without combustion</td>\n    </tr>\n  </tbody>\n</table>\n\n(2) The amount of applicable tax referred to in sub-rule (1) shall be determined in the following manner, namely: —\nTax amount = (Retail sale price X tax rate in % of applicable taxes) / (100 + sum of applicable tax rate).\n\nExplanation. — For the purposes of this rule, —\n(a) \"applicable tax\" means IGST or CGST or SGST or UTGST as the case may be.\n(b) \"retail sale price\" means the maximum price declared on goods at which such goods in packaged form may be sold to the ultimate consumer and includes all taxes, duties, surcharge or cess by whatever name called;\n(c) where on the package of any specified goods more than one retail sale price is declared, the maximum of such retail sale price shall be deemed to be the retail sale price;\n(d) where the retail sale price declared on packages of any specified goods is altered to increase the retail sale price at any stage before, during, or after the supply, such altered retail sale price shall be deemed to be the retail sale price;\n(e) where different retail sale prices are declared on different packages for the sale of any specified goods above in packaged form in different areas, each such retail sale price shall be the retail sale price for the purposes of valuation of the specified goods intended to be sold in the area to which the retail sale price relates.",
+  "references": []
+},
+    {
+  "id": "r32",
+  "number": "32",
+  "heading": "Determination of value in respect of certain supplies",
+  "content": "(1) Notwithstanding anything contained in the provisions of this Chapter, the value in respect of supplies specified below shall, at the option of the supplier, be determined in the manner provided hereinafter.\n\n(2) The value of supply of services in relation to the purchase or sale of foreign currency, including money changing, shall be determined by the supplier of services in the following manner, namely:-\n(a) for a currency, when exchanged from, or to, Indian Rupees, the value shall be equal to the difference in the buying rate or the selling rate, as the case may be, and the Reserve Bank of India reference rate for that currency at that time, multiplied by the total units of currency:\nProvided that in case where the Reserve Bank of India reference rate for a currency is not available, the value shall be one per cent of the gross amount of Indian Rupees provided or received by the person changing the money:\nProvided further that in case where neither of the currencies exchanged is Indian Rupees, the value shall be equal to one percent of the lesser of the two amounts the person changing the money would have received by converting any of the two currencies into Indian Rupee on that day at the reference rate provided by the Reserve Bank of India.\nProvided also that a person supplying the services may exercise the option to ascertain the value in terms of clause (b) for a financial year and such option shall not be withdrawn during the remaining part of that financial year.\n(b) at the option of the supplier of services, the value in relation to the supply of foreign currency, including money changing, shall be deemed to be-\n(i) one percent of the gross amount of currency exchanged for an amount up to one lakh rupees, subject to a minimum amount of two hundred and fifty rupees;\n(ii) one thousand rupees and half of a per cent. of the gross amount of currency exchanged for an amount exceeding one lakh rupees and up to ten lakh rupees; and\n(iii) five thousand and five hundred rupees and one tenth of a per cent. of the gross amount of currency exchanged for an amount exceeding ten lakh rupees, subject to a maximum amount of sixty thousand rupees.\n\n(3) The value of the supply of services in relation to booking of tickets for travel by air provided by an air travel agent shall be deemed to be an amount calculated at the rate of five percent of the basic fare in the case of domestic bookings, and at the rate of ten percent of the basic fare in the case of international bookings of passage for travel by air.\nExplanation. - For the purposes of this sub-rule, the expression \"basic fare\" means that part of the air fare on which commission is normally paid to the air travel agent by the airlines.\n\n(4) The value of supply of services in relation to life insurance business shall be,-\n(a) the gross premium charged from a policy holder reduced by the amount allocated for investment, or savings on behalf of the policy holder, if such an amount is intimated to the policy holder at the time of supply of service;\n(b) in case of single premium annuity policies other than (a), ten per cent. of single premium charged from the policy holder; or\n(c) in all other cases, twenty five per cent. of the premium charged from the policy holder in the first year and twelve and a half per cent. of the premium charged from the policy holder in subsequent years:\nProvided that nothing contained in this sub-rule shall apply where the entire premium paid by the policy holder is only towards the risk cover in life insurance.\n\n(5) Where a taxable supply is provided by a person dealing in buying and selling of second hand goods i.e., used goods as such or after such minor processing which does not change the nature of the goods and where no input tax credit has been availed on the purchase of such goods, the value of supply shall be the difference between the selling price and the purchase price and where the value of such supply is negative, it shall be ignored:\nProvided that the purchase value of goods repossessed from a defaulting borrower, who is not registered, for the purpose of recovery of a loan or debt shall be deemed to be the purchase price of such goods by the defaulting borrower reduced by five percentage points for every quarter or part thereof, between the date of purchase and the date of disposal by the person making such repossession.\n\n(6) The value of a token, or a voucher, or a coupon, or a stamp (other than postage stamp) which is redeemable against a supply of goods or services or both shall be equal to the money value of the goods or services or both redeemable against such token, voucher, coupon, or stamp.\n\n(7) The value of taxable services provided by such class of service providers as may be notified by the Government, on the recommendations of the Council, as referred to in paragraph 2 of Schedule I of the said Act between distinct persons as referred to in section 25, where input tax credit is available, shall be deemed to be NIL.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s25",
+      "text": "Section 25"
+    },
+    {
+      "type": "schedule",
+      "id": "schedule1",
+      "text": "Schedule I"
+    }
+  ]
+},
+    {
+  "id": "r32A",
+  "number": "32A",
+  "heading": "Value of supply in cases where Kerala Flood Cess is applicable",
+  "content": "The value of supply of goods or services or both on which Kerala Flood Cess is levied under clause 14 of the Kerala Finance Bill, 2019 shall be deemed to be the value determined in terms of section 15 of the Act, but shall not include the said cess.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s15",
+      "text": "Section 15"
+    }
+  ]
+},
+    {
+  "id": "r33",
+  "number": "33",
+  "heading": "Value of supply of services in case of pure agent",
+  "content": "Notwithstanding anything contained in the provisions of this Chapter, the expenditure or costs incurred by a supplier as a pure agent of the recipient of supply shall be excluded from the value of supply, if all the following conditions are satisfied, namely,-\n(i) the supplier acts as a pure agent of the recipient of the supply, when he makes the payment to the third party on authorisation by such recipient;\n(ii) the payment made by the pure agent on behalf of the recipient of supply has been separately indicated in the invoice issued by the pure agent to the recipient of service; and\n(iii) the supplies procured by the pure agent from the third party as a pure agent of the recipient of supply are in addition to the services he supplies on his own account.\n\nExplanation. - For the purposes of this rule, the expression \"pure agent\" means a person who-\n(a) enters into a contractual agreement with the recipient of supply to act as his pure agent to incur expenditure or costs in the course of supply of goods or services or both;\n(b) neither intends to hold nor holds any title to the goods or services or both so procured or supplied as pure agent of the recipient of supply;\n(c) does not use for his own interest such goods or services so procured; and\n(d) receives only the actual amount incurred to procure such goods or services in addition to the amount received for supply he provides on his own account.\n\nIllustration. - Corporate services firm A is engaged to handle the legal work pertaining to the incorporation of Company B. Other than its service fees, A also recovers from B, registration fee and approval fee for the name of the company paid to the Registrar of Companies. The fees charged by the Registrar of Companies for the registration and approval of the name are compulsorily levied on B. A is merely acting as a pure agent in the payment of those fees. Therefore, A's recovery of such expenses is a disbursement and not part of the value of supply made by A to B.",
+  "references": []
+},
+    {
+  "id": "r34",
+  "number": "34",
+  "heading": "Rate of exchange of currency, other than Indian rupees, for determination of value",
+  "content": "(1) The rate of exchange for determination of value of taxable goods shall be the applicable rate of exchange as notified by the Board under section 14 of the Customs Act, 1962 for the date of time of supply of such goods in terms of section 12 of the Act.\n\n(2) The rate of exchange for determination of value of taxable services shall be the applicable rate of exchange determined as per the generally accepted accounting principles for the date of time of supply of such services in terms of section 13 of the Act.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s12",
+      "text": "Section 12"
+    },
+    {
+      "type": "section",
+      "id": "s13",
+      "text": "Section 13"
+    }
+  ]
+},
+    {
+  "id": "r35",
+  "number": "35",
+  "heading": "Value of supply inclusive of integrated tax, central tax, State tax, Union territory tax",
+  "content": "Where the value of supply is inclusive of integrated tax or, as the case may be, central tax, State tax, Union territory tax, the tax amount shall be determined in the following manner, namely,-\n\nTax amount = (Value inclusive of taxes x tax rate in % of IGST or, as the case may be, CGST, SGST or UTGST) / (100 + sum of tax rates, as applicable, in %)\n\nExplanation. - For the purposes of the provisions of this Chapter, the expressions-\n(a) \"open market value\" of a supply of goods or services or both means the full value in money, excluding the integrated tax, central tax, State tax, Union territory tax and the cess payable by a person in a transaction, where the supplier and the recipient of the supply are not related and the price is the sole consideration, to obtain such supply at the same time when the supply being valued is made;\n(b) \"supply of goods or services or both of like kind and quality\" means any other supply of goods or services or both made under similar circumstances that, in respect of the characteristics, quality, quantity, functional components, materials, and the reputation of the goods or services or both first mentioned, is the same as, or closely or substantially resembles, that supply of goods or services or both.",
+  "references": []
+},
+    {
+  "id": "r36",
+  "number": "36",
+  "heading": "Documentary requirements and conditions for claiming input tax credit",
+  "content": "(1) The input tax credit shall be availed by a registered person, including the Input Service Distributor, on the basis of any of the following documents, namely,-\n(a) an invoice issued by the supplier of goods or services or both in accordance with the provisions of section 31;\n(b) an invoice issued in accordance with the provisions of clause (f) of sub-section (3) of section 31, subject to the payment of tax;\n(c) a debit note issued by a supplier in accordance with the provisions of section 34;\n(d) a bill of entry or any similar document prescribed under the Customs Act, 1962 or rules made thereunder for the assessment of integrated tax on imports;\n(e) an Input Service Distributor invoice or Input Service Distributor credit note or any document issued by an Input Service Distributor in accordance with the provisions of sub-rule (1) of rule 54.\n\n(2) Input tax credit shall be availed by a registered person only if all the applicable particulars as specified in the provisions of Chapter VI are contained in the said document:\nProvided that if the said document does not contain all the specified particulars but contains the details of the amount of tax charged, description of goods or services, total value of supply of goods or services or both, GSTIN of the supplier and recipient and place of supply in case of inter-State supply, input tax credit may be availed by such registered person.\n\n(3) No input tax credit shall be availed by a registered person in respect of any tax that has been paid in pursuance of any order where any demand has been confirmed on account of any fraud, willful misstatement or suppression of facts under section 74.\n\n(4) No input tax credit shall be availed by a registered person in respect of invoices or debit notes the details of which are required to be furnished under sub-section (1) of section 37 unless,-\n(a) the details of such invoices or debit notes have been furnished by the supplier in the statement of outward supplies in FORM GSTR-1, as amended in FORM GSTR-1A if any, or using the invoice furnishing facility; and\n(b) the details of input tax credit in respect of such invoices or debit notes have been communicated to the registered person in FORM GSTR-2B under sub-rule (7) of rule 60.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s31",
+      "text": "Section 31"
+    },
+    {
+      "type": "section",
+      "id": "s34",
+      "text": "Section 34"
+    },
+    {
+      "type": "section",
+      "id": "s74",
+      "text": "Section 74"
+    },
+    {
+      "type": "section",
+      "id": "s37",
+      "text": "Section 37"
+    },
+    {
+      "type": "rule",
+      "id": "r54",
+      "text": "Rule 54"
+    },
+    {
+      "type": "rule",
+      "id": "r60",
+      "text": "Rule 60"
+    }
+  ]
 }
   ]
 }
