@@ -838,6 +838,529 @@
   "references": []
 },
     {
+  "id": "s44",
+  "number": "44",
+  "heading": "Annual return",
+  "content": "(1) Every registered person, other than an Input Service Distributor, a person paying tax under section 51 or section 52, a casual taxable person and a non-resident taxable person shall furnish an annual return which may include a self-certified reconciliation statement, reconciling the value of supplies declared in the return furnished for the financial year, with the audited annual financial statement for every financial year electronically, within such time and in such form and in such manner as may be prescribed:\nProvided that the Commissioner may, on the recommendations of the Council, by notification, exempt any class of registered persons from filing annual return under this section:\nProvided further that nothing contained in this section shall apply to any department of the Central Government or a State Government or a local authority, whose books of account are subject to audit by the Comptroller and Auditor-General of India or an auditor appointed for auditing the accounts of local authorities under any law for the time being in force.\n\n(2) A registered person shall not be allowed to furnish an annual return under sub-section (1) for a financial year after the expiry of a period of three years from the due date of furnishing the said annual return:\nProvided that the Government may, on the recommendations of the Council, by notification, and subject to such conditions and restrictions as may be specified therein, allow a registered person or a class of registered persons to furnish an annual return for a financial year under sub-section (1), even after the expiry of the said period of three years from the due date of furnishing the said annual return.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s51",
+      "text": "Section 51"
+    },
+    {
+      "type": "section",
+      "id": "s52",
+      "text": "Section 52"
+    }
+  ]
+},
+{
+  "id": "s45",
+  "number": "45",
+  "heading": "Final return",
+  "content": "Every registered person who is required to furnish a return under sub-section (1) of section 39 and whose registration has been cancelled shall furnish a final return within three months of the date of cancellation or date of order of cancellation, whichever is later, in such form and manner as may be prescribed.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s39",
+      "text": "Section 39"
+    }
+  ]
+},
+{
+  "id": "s46",
+  "number": "46",
+  "heading": "Notice to return defaulters",
+  "content": "Where a registered person fails to furnish a return under section 39 or section 44 or section 45, a notice shall be issued requiring him to furnish such return within fifteen days in such form and manner as may be prescribed.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s39",
+      "text": "Section 39"
+    },
+    {
+      "type": "section",
+      "id": "s44",
+      "text": "Section 44"
+    },
+    {
+      "type": "section",
+      "id": "s45",
+      "text": "Section 45"
+    }
+  ]
+},
+{
+  "id": "s47",
+  "number": "47",
+  "heading": "Levy of late fee",
+  "content": "(1) Any registered person who fails to furnish the details of outward supplies required under section 37 or returns required under section 39 or section 45 or section 52 by the due date shall pay a late fee of one hundred rupees for every day during which such failure continues subject to a maximum amount of five thousand rupees.\n\n(2) Any registered person who fails to furnish the return required under section 44 by the due date shall be liable to pay a late fee of one hundred rupees for every day during which such failure continues subject to a maximum of an amount calculated at a quarter per cent. of his turnover in the State or Union territory.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s37",
+      "text": "Section 37"
+    },
+    {
+      "type": "section",
+      "id": "s39",
+      "text": "Section 39"
+    },
+    {
+      "type": "section",
+      "id": "s45",
+      "text": "Section 45"
+    },
+    {
+      "type": "section",
+      "id": "s52",
+      "text": "Section 52"
+    },
+    {
+      "type": "section",
+      "id": "s44",
+      "text": "Section 44"
+    }
+  ]
+},
+{
+  "id": "s48",
+  "number": "48",
+  "heading": "Goods and services tax practitioners",
+  "content": "(1) The manner of approval of goods and services tax practitioners, their eligibility conditions, duties and obligations, manner of removal and other conditions relevant for their functioning shall be such as may be prescribed.\n\n(2) A registered person may authorise an approved goods and services tax practitioner to furnish the details of outward supplies under section 37, and the return under section 39 or section 44 or section 45 and to perform such other functions in such manner as may be prescribed.\n\n(3) Notwithstanding anything contained in sub-section (2), the responsibility for correctness of any particulars furnished in the return or other details filed by the goods and services tax practitioners shall continue to rest with the registered person on whose behalf such return and details are furnished.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s37",
+      "text": "Section 37"
+    },
+    {
+      "type": "section",
+      "id": "s39",
+      "text": "Section 39"
+    },
+    {
+      "type": "section",
+      "id": "s44",
+      "text": "Section 44"
+    },
+    {
+      "type": "section",
+      "id": "s45",
+      "text": "Section 45"
+    }
+  ]
+},
+{
+  "id": "s49",
+  "number": "49",
+  "heading": "Payment of tax, interest, penalty and other amounts",
+  "content": "(1) Every deposit made towards tax, interest, penalty, fee or any other amount by a person by internet banking or by using credit or debit cards or National Electronic Fund Transfer or Real Time Gross Settlement or by such other mode and subject to such conditions and restrictions as may be prescribed, shall be credited to the electronic cash ledger of such person to be maintained in such manner as may be prescribed.\n\n(2) The input tax credit as self-assessed in the return of a registered person shall be credited to his electronic credit ledger, in accordance with section 41, to be maintained in such manner as may be prescribed.\n\n(3) The amount available in the electronic cash ledger may be used for making any payment towards tax, interest, penalty, fees or any other amount payable under the provisions of this Act or the rules made thereunder in such manner and subject to such conditions and within such time as may be prescribed.\n\n(4) The amount available in the electronic credit ledger may be used for making any payment towards output tax under this Act or under the Integrated Goods and Services Tax Act in such manner and subject to such conditions and restrictions within such time as may be prescribed.\n\n(5) The amount of input tax credit available in the electronic credit ledger of the registered person on account of-\n(a) integrated tax shall first be utilised towards payment of integrated tax and the amount remaining, if any, may be utilised towards the payment of central tax and State tax, or as the case may be, Union territory tax, in that order;\n(b) the central tax shall first be utilised towards payment of central tax and the amount remaining, if any, may be utilised towards the payment of integrated tax;\n(c) the State tax shall first be utilised towards payment of State tax and the amount remaining, if any, may be utilised towards payment of integrated tax:\nProvided that the input tax credit on account of State tax shall be utilised towards payment of integrated tax only where the balance of the input tax credit on account of central tax is not available for payment of integrated tax;\n(d) the Union territory tax shall first be utilised towards payment of Union territory tax and the amount remaining, if any, may be utilised towards payment of integrated tax:\nProvided that the input tax credit on account of Union territory tax shall be utilised towards payment of integrated tax only where the balance of the input tax credit on account of central tax is not available for payment of integrated tax;\n(e) the central tax shall not be utilised towards payment of State tax or Union territory tax; and\n(f) the State tax or Union territory tax shall not be utilised towards payment of central tax.\n\n(6) The balance in the electronic cash ledger or electronic credit ledger after payment of tax, interest, penalty, fee or any other amount payable under this Act or the rules made thereunder may be refunded in accordance with the provisions of section 54.\n\n(7) All liabilities of a taxable person under this Act shall be recorded and maintained in an electronic liability register in such manner as may be prescribed.\n\n(8) Every taxable person shall discharge his tax and other dues under this Act or the rules made thereunder in the following order, namely:-\n(a) self-assessed tax, and other dues related to returns of previous tax periods;\n(b) self-assessed tax, and other dues related to the return of the current tax period;\n(c) any other amount payable under this Act or the rules made thereunder including the demand determined under section 73 or section 74 or section 74A.\n\n(9) Every person who has paid the tax on goods or services or both under this Act shall, unless the contrary is proved by him, be deemed to have passed on the full incidence of such tax to the recipient of such goods or services or both.\n\n(10) A registered person may, on the common portal, transfer any amount of tax, interest, penalty, fee or any other amount available in the electronic cash ledger under this Act, to the electronic cash ledger for,––\n(a) integrated tax, central tax, State tax, Union territory tax or cess; or\n(b) integrated tax or central tax of a distinct person as specified in sub-section (4) or, as the case may be, sub-section (5) of section 25,\nin such form and manner and subject to such conditions and restrictions as may be prescribed and such transfer shall be deemed to be a refund from the electronic cash ledger under this Act:\nProvided that no such transfer under clause (b) shall be allowed if the said registered person has any unpaid liability in his electronic liability register.\n\n(11) Where any amount has been transferred to the electronic cash ledger under this Act, the same shall be deemed to be deposited in the said ledger as provided in sub-section (1).\n\n(12) Notwithstanding anything contained in this Act, the Government may, on the recommendations of the Council, subject to such conditions and restrictions, specify such maximum proportion of output tax liability under this Act or under the Integrated Goods and Services Tax Act, 2017 which may be discharged through the electronic credit ledger by a registered person or a class of registered persons, as may be prescribed.\nExplanation.-For the purposes of this section,-\n(a) the date of credit to the account of the Government in the authorised bank shall be deemed to be the date of deposit in the electronic cash ledger;\n(b) the expression,-\n(i) \"tax dues\" means the tax payable under this Act and does not include interest, fee and penalty; and\n(ii) \"other dues\" means interest, penalty, fee or any other amount payable under this Act or the rules made thereunder.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s41",
+      "text": "Section 41"
+    },
+    {
+      "type": "section",
+      "id": "s54",
+      "text": "Section 54"
+    },
+    {
+      "type": "section",
+      "id": "s73",
+      "text": "Section 73"
+    },
+    {
+      "type": "section",
+      "id": "s74",
+      "text": "Section 74"
+    },
+    {
+      "type": "section",
+      "id": "s74A",
+      "text": "Section 74A"
+    },
+    {
+      "type": "section",
+      "id": "s25",
+      "text": "Section 25"
+    }
+  ]
+},
+{
+  "id": "s49A",
+  "number": "49A",
+  "heading": "Utilisation of input tax credit subject to certain conditions",
+  "content": "Notwithstanding anything contained in section 49, the input tax credit on account of central tax, State tax or Union territory tax shall be utilised towards payment of integrated tax, central tax, State tax or Union territory tax, as the case may be, only after the input tax credit available on account of integrated tax has first been utilised fully towards such payment.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s49",
+      "text": "Section 49"
+    }
+  ]
+},
+{
+  "id": "s49B",
+  "number": "49B",
+  "heading": "Order of utilisation of input tax credit",
+  "content": "Notwithstanding anything contained in this Chapter and subject to the provisions of clause (e) and clause (f) of sub-section (5) of section 49, the Government may, on the recommendations of the Council, prescribe the order and manner of utilisation of the input tax credit on account of integrated tax, central tax, State tax or Union territory tax, as the case may be, towards payment of any such tax.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s49",
+      "text": "Section 49"
+    }
+  ]
+},
+{
+  "id": "s50",
+  "number": "50",
+  "heading": "Interest on delayed payment of tax",
+  "content": "(1) Every person who is liable to pay tax in accordance with the provisions of this Act or the rules made thereunder, but fails to pay the tax or any part thereof to the Government within the period prescribed, shall for the period for which the tax or any part thereof remains unpaid, pay, on his own, interest at such rate, not exceeding eighteen per cent., as may be notified by the Government on the recommendations of the Council:\nProvided that the interest on tax payable in respect of supplies made during a tax period and declared in the return for the said period furnished after the due date in accordance with the provisions of section 39, except where such return is furnished after commencement of any proceedings under section 73 or section 74 or section 74A in respect of the said period, shall be levied on that portion of the tax that is paid by debiting the electronic cash ledger.\n\n(2) The interest under sub-section (1) shall be calculated, in such manner as may be prescribed, from the day succeeding the day on which such tax was due to be paid.\n\n(3) Where the input tax credit has been wrongly availed and utilised, the registered person shall pay interest on such input tax credit wrongly availed and utilised, at such rate not exceeding twenty-four per cent. as may be notified by the Government, on the recommendations of the Council, and the interest shall be calculated, in such manner as may be prescribed.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s39",
+      "text": "Section 39"
+    },
+    {
+      "type": "section",
+      "id": "s73",
+      "text": "Section 73"
+    },
+    {
+      "type": "section",
+      "id": "s74",
+      "text": "Section 74"
+    },
+    {
+      "type": "section",
+      "id": "s74A",
+      "text": "Section 74A"
+    }
+  ]
+},
+{
+  "id": "s51",
+  "number": "51",
+  "heading": "Tax deduction at source",
+  "content": "(1) Notwithstanding anything to the contrary contained in this Act, the Government may mandate,-\n(a) a department or establishment of the Central Government or State Government; or\n(b) local authority; or\n(c) Governmental agencies; or\n(d) such persons or category of persons as may be notified by the Government on the recommendations of the Council,\n(hereafter in this section referred to as \"the deductor\"), to deduct tax at the rate of one per cent. from the payment made or credited to the supplier (hereafter in this section referred to as \"the deductee\") of taxable goods or services or both, where the total value of such supply, under a contract, exceeds two lakh and fifty thousand rupees:\nProvided that no deduction shall be made if the location of the supplier and the place of supply is in a State or Union territory which is different from the State or as the case may be, Union territory of registration of the recipient.\nExplanation.-For the purpose of deduction of tax specified above, the value of supply shall be taken as the amount excluding the central tax, State tax, Union territory tax, integrated tax and cess indicated in the invoice.\n\n(2) The amount deducted as tax under this section shall be paid to the Government by the deductor within ten days after the end of the month in which such deduction is made, in such manner as may be prescribed.\n\n(3) A certificate of tax deduction at source shall be issued in such form and in such manner as may be prescribed.\n\n(4) ****\n\n(5) The deductee shall claim credit, in his electronic cash ledger, of the tax deducted and reflected in the return of the deductor furnished under sub-section (3) of section 39, in such manner as may be prescribed.\n\n(6) If any deductor fails to pay to the Government the amount deducted as tax under sub-section (1), he shall pay interest in accordance with the provisions of sub-section (1) of section 50, in addition to the amount of tax deducted.\n\n(7) The determination of the amount in default under this section shall be made in the manner specified in section 73 or section 74 or section 74A.\n\n(8) The refund to the deductor or the deductee arising on account of excess or erroneous deduction shall be dealt with in accordance with the provisions of section 54:\nProvided that no refund to the deductor shall be granted, if the amount deducted has been credited to the electronic cash ledger of the deductee.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s39",
+      "text": "Section 39"
+    },
+    {
+      "type": "section",
+      "id": "s50",
+      "text": "Section 50"
+    },
+    {
+      "type": "section",
+      "id": "s73",
+      "text": "Section 73"
+    },
+    {
+      "type": "section",
+      "id": "s74",
+      "text": "Section 74"
+    },
+    {
+      "type": "section",
+      "id": "s74A",
+      "text": "Section 74A"
+    },
+    {
+      "type": "section",
+      "id": "s54",
+      "text": "Section 54"
+    }
+  ]
+},
+{
+  "id": "s52",
+  "number": "52",
+  "heading": "Collection of tax at source",
+  "content": "(1) Notwithstanding anything to the contrary contained in this Act, every electronic commerce operator (hereafter in this section referred to as the \"operator\"), not being an agent, shall collect an amount calculated at such rate not exceeding one per cent., as may be notified by the Government on the recommendations of the Council, of the net value of taxable supplies made through it by other suppliers where the consideration with respect to such supplies is to be collected by the operator.\nExplanation.-For the purposes of this sub-section, the expression \"net value of taxable supplies\" shall mean the aggregate value of taxable supplies of goods or services or both, other than services notified under sub-section (5) of section 9, made during any month by all registered persons through the operator reduced by the aggregate value of taxable supplies returned to the suppliers during the said month.\n\n(2) The power to collect the amount specified in sub-section (1) shall be without prejudice to any other mode of recovery from the operator.\n\n(3) The amount collected under sub-section (1) shall be paid to the Government by the operator within ten days after the end of the month in which such collection is made, in such manner as may be prescribed.\n\n(4) Every operator who collects the amount specified in sub-section (1) shall furnish a statement, electronically, containing the details of outward supplies of goods or services or both effected through it, including the supplies of goods or services or both returned through it, and the amount collected under sub-section (1) during a month, in such form and manner as may be prescribed, within ten days after the end of such month:\nProvided that the Commissioner may, for reasons to be recorded in writing, by notification, extend the time limit for furnishing the statement for such class of registered persons as may be specified therein:\nProvided further that any extension of time limit notified by the Commissioner of State tax or the Commissioner of Union territory tax shall be deemed to be notified by the Commissioner.\n\n(5) Every operator who collects the amount specified in sub-section (1) shall furnish an annual statement, electronically, containing the details of outward supplies of goods or services or both effected through it, including the supplies of goods or services or both returned through it, and the amount collected under the said sub-section during the financial year, in such form and manner as may be prescribed, before the thirty first day of December following the end of such financial year:\nProvided that the Commissioner may, on the recommendations of the Council and for reasons to be recorded in writing, by notification, extend the time limit for furnishing the annual statement for such class of registered persons as may be specified therein:\nProvided further that any extension of time limit notified by the Commissioner of State tax or the Commissioner of Union territory tax shall be deemed to be notified by the Commissioner.\n\n(6) If any operator after furnishing a statement under sub-section (4) discovers any omission or incorrect particulars therein, other than as a result of scrutiny, audit, inspection or enforcement activity by the tax authorities, he shall rectify such omission or incorrect particulars in the statement to be furnished for the month during which such omission or incorrect particulars are noticed, subject to payment of interest, as specified in sub-section (1) of section 50:\nProvided that no such rectification of any omission or incorrect particulars shall be allowed after the thirtieth day of November following the end of the financial year or the actual date of furnishing of the relevant annual statement, whichever is earlier.\n\n(7) The supplier who has supplied the goods or services or both through the operator shall claim credit, in his electronic cash ledger, of the amount collected and reflected in the statement of the operator furnished under sub-section (4), in such manner as may be prescribed.\n\n(8) The details of supplies furnished by every operator under sub-section (4) shall be matched with the corresponding details of outward supplies furnished by the concerned supplier registered under this Act in such manner and within such time as may be prescribed.\n\n(9) Where the details of outward supplies furnished by the operator under sub-section (4) do not match with the corresponding details furnished by the supplier under section 37 or section 39, the discrepancy shall be communicated to both persons in such manner and within such time as may be prescribed.\n\n(10) The amount in respect of which any discrepancy is communicated under sub-section (9) and which is not rectified by the supplier in his valid return or the operator in his statement for the month in which discrepancy is communicated, shall be added to the output tax liability of the said supplier, where the value of outward supplies furnished by the operator is more than the value of outward supplies furnished by the supplier, in his return for the month succeeding the month in which the discrepancy is communicated in such manner as may be prescribed.\n\n(11) The concerned supplier, in whose output tax liability any amount has been added under sub-section (10), shall pay the tax payable in respect of such supply along with interest, at the rate specified under sub-section (1) of section 50 on the amount so added from the date such tax was due till the date of its payment.\n\n(12) Any authority not below the rank of Deputy Commissioner may serve a notice, either before or during the course of any proceedings under this Act, requiring the operator to furnish such details relating to-\n(a) supplies of goods or services or both effected through such operator during any period; or\n(b) stock of goods held by the suppliers making supplies through such operator in the godowns or warehouses, by whatever name called, managed by such operator and declared as additional places of business by such suppliers,\nas may be specified in the notice.\n\n(13) Every operator on whom a notice has been served under sub-section (12) shall furnish the required information within fifteen working days of the date of service of such notice.\n\n(14) Any person who fails to furnish the information required by the notice served under sub-section (12) shall, without prejudice to any action that may be taken under section 122, be liable to a penalty which may extend to twenty-five thousand rupees.\nExplanation.-For the purposes of this section, the expression \"concerned supplier\" shall mean the supplier of goods or services or both making supplies through the operator.\n\n(15) The operator shall not be allowed to furnish a statement under sub-section (4) after the expiry of a period of three years from the due date of furnishing the said statement:\nProvided that the Government may, on the recommendations of the Council, by notification, subject to such conditions and restrictions as may be specified therein, allow an operator or a class of operators to furnish a statement under sub-section (4), even after the expiry of the said period of three years from the due date of furnishing the said statement.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s9",
+      "text": "Section 9"
+    },
+    {
+      "type": "section",
+      "id": "s50",
+      "text": "Section 50"
+    },
+    {
+      "type": "section",
+      "id": "s37",
+      "text": "Section 37"
+    },
+    {
+      "type": "section",
+      "id": "s39",
+      "text": "Section 39"
+    },
+    {
+      "type": "section",
+      "id": "s122",
+      "text": "Section 122"
+    }
+  ]
+},
+{
+  "id": "s53",
+  "number": "53",
+  "heading": "Transfer of input tax credit",
+  "content": "On utilisation of input tax credit availed under this Act for payment of tax dues under the Integrated Goods and Services Tax Act in accordance with the provisions of sub-section (5) of section 49, as reflected in the valid return furnished under sub-section (1) of section 39, the amount collected as central tax shall stand reduced by an amount equal to such credit so utilised and the Central Government shall transfer an amount equal to the amount so reduced from the central tax account to the integrated tax account in such manner and within such time as may be prescribed.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s49",
+      "text": "Section 49"
+    },
+    {
+      "type": "section",
+      "id": "s39",
+      "text": "Section 39"
+    }
+  ]
+},
+    {
+  "id": "s53A",
+  "number": "53A",
+  "heading": "Transfer of certain amounts",
+  "content": "Where any amount has been transferred from the electronic cash ledger under this Act to the electronic cash ledger under the State Goods and Services Tax Act or the Union territory Goods and Services Tax Act, the Government shall, transfer to the State tax account or the Union territory tax account, an amount equal to the amount transferred from the electronic cash ledger, in such manner and within such time as may be prescribed.",
+  "references": []
+},
+    {
+  "id": "s54",
+  "number": "54",
+  "heading": "Refund of tax",
+  "content": "(1) Any person claiming refund of any tax and interest, if any, paid on such tax or any other amount paid by him, may make an application before the expiry of two years from the relevant date in such form and manner as may be prescribed:\nProvided that a registered person, claiming refund of any balance in the electronic cash ledger in accordance with the provisions of sub-section (6) of section 49, may claim such refund in such form and manner as may be prescribed.\n\n(2) A specialised agency of the United Nations Organisation or any Multilateral Financial Institution and Organisation notified under the United Nations (Privileges and Immunities) Act, 1947 (46 of 1947), Consulate or Embassy of foreign countries or any other person or class of persons, as notified under section 55, entitled to a refund of tax paid by it on inward supplies of goods or services or both, may make an application for such refund, in such form and manner as may be prescribed, before the expiry of two years from the last day of the quarter in which such supply was received.\n\n(3) Subject to the provisions of sub-section (10), a registered person may claim refund of any unutilised input tax credit at the end of any tax period:\nProvided that no refund of unutilised input tax credit shall be allowed in cases other than-\n(i) zero rated supplies made without payment of tax;\n(ii) where the credit has accumulated on account of rate of tax on inputs being higher than the rate of tax on output supplies (other than nil rated or fully exempt supplies), except supplies of goods or services or both as may be notified by the Government on the recommendations of the Council:\nProvided also that no refund of input tax credit shall be allowed, if the supplier of goods or services or both avails of drawback in respect of central tax or claims refund of the integrated tax paid on such supplies.\n\n(4) The application shall be accompanied by-\n(a) such documentary evidence as may be prescribed to establish that a refund is due to the applicant; and\n(b) such documentary or other evidence (including the documents referred to in section 33) as the applicant may furnish to establish that the amount of tax and interest, if any, paid on such tax or any other amount paid in relation to which such refund is claimed was collected from, or paid by, him and the incidence of such tax and interest had not been passed on to any other person:\nProvided that where the amount claimed as refund is less than two lakh rupees, it shall not be necessary for the applicant to furnish any documentary and other evidences but he may file a declaration, based on the documentary or other evidences available with him, certifying that the incidence of such tax and interest had not been passed on to any other person.\n\n(5) If, on receipt of any such application, the proper officer is satisfied that the whole or part of the amount claimed as refund is refundable, he may make an order accordingly and the amount so determined shall be credited to the Fund referred to in section 57.\n\n(6) Notwithstanding anything contained in sub-section (5), the proper officer may, in the case of any claim for refund on account of zero-rated supply of goods or services or both or of unutilised input tax credit allowed under clause (ii) of the first proviso to sub-section (3) made by registered persons, other than such category of registered persons as may be notified by the Government on the recommendations of the Council, refund on a provisional basis, ninety per cent. of the total amount so claimed, in such manner and subject to such conditions, limitations and safeguards as may be prescribed and thereafter make an order under sub-section (5) for final settlement of the refund claim after due verification of documents furnished by the applicant.\n\n(7) The proper officer shall issue the order under sub-section (5) within sixty days from the date of receipt of application complete in all respects.\n\n(8) Notwithstanding anything contained in sub-section (5), the refundable amount shall, instead of being credited to the Fund, be paid to the applicant, if such amount is relatable to-\n(a) refund of tax paid on export of goods or services or both or on inputs or input services used in making such exports;\n(b) refund of unutilised input tax credit under sub-section (3);\n(c) refund of tax paid on a supply which is not provided, either wholly or partially, and for which invoice has not been issued, or where a refund voucher has been issued;\n(d) refund of tax in pursuance of section 77;\n(e) the tax and interest, if any, or any other amount paid by the applicant, if he had not passed on the incidence of such tax and interest to any other person; or\n(f) the tax or interest borne by such other class of applicants as the Government may, on the recommendations of the Council, by notification, specify.\n\n(8A) The Government may disburse the refund of the State tax in such manner as may be prescribed.\n\n(9) Notwithstanding anything to the contrary contained in any judgment, decree, order or direction of the Appellate Tribunal or any court or in any other provisions of this Act or the rules made thereunder or in any other law for the time being in force, no refund shall be made except in accordance with the provisions of sub-section (8).\n\n(10) Where any refund is due to a registered person who has defaulted in furnishing any return or who is required to pay any tax, interest or penalty, which has not been stayed by any court, Tribunal or Appellate Authority by the specified date, the proper officer may-\n(a) withhold payment of refund due until the said person has furnished the return or paid the tax, interest or penalty, as the case may be;\n(b) deduct from the refund due, any tax, interest, penalty, fee or any other amount which the taxable person is liable to pay but which remains unpaid under this Act or under the existing law.\nExplanation.-For the purposes of this sub-section, the expression \"specified date\" shall mean the last date for filing an appeal under this Act.\n\n(11) Where an order giving rise to a refund is the subject matter of an appeal or further proceedings or where any other proceedings under this Act is pending and the Commissioner is of the opinion that grant of such refund is likely to adversely affect the revenue in the said appeal or other proceedings on account of malfeasance or fraud committed, he may, after giving the taxable person an opportunity of being heard, withhold the refund till such time as he may determine.\n\n(12) Where a refund is withheld under sub-section (11), the taxable person shall, notwithstanding anything contained in section 56, be entitled to interest at such rate not exceeding six per cent. as may be notified on the recommendations of the Council, if as a result of the appeal or further proceedings he becomes entitled to refund.\n\n(13) Notwithstanding anything to the contrary contained in this section, the amount of advance tax deposited by a casual taxable person or a non-resident taxable person under sub-section (2) of section 27, shall not be refunded unless such person has, in respect of the entire period for which the certificate of registration granted to him had remained in force, furnished all the returns required under section 39.\n\n(14) Notwithstanding anything contained in this section, no refund under sub-section (5) or sub-section (6), other than cases where refund of tax is claimed on account of goods exported out of India with payment of tax, shall be paid to an applicant, if the amount is less than one thousand rupees.\n\n(15) Notwithstanding anything contained in this section, no refund of unutilised input tax credit on account of zero rated supply of goods or of integrated tax paid on account of zero rated supply of goods shall be allowed where such zero rated supply of goods is subjected to export duty.\n\nExplanation.- For the purposes of this section,-\n(1) \"refund\" includes refund of tax paid on zero-rated supplies of goods or services or both or on inputs or input services used in making such zero-rated supplies, or refund of tax on the supply of goods regarded as deemed exports, or refund of unutilised input tax credit as provided under sub-section (3).\n(2) \"relevant date\" means-\n(a) in the case of goods exported out of India where a refund of tax paid is available in respect of goods themselves or, as the case may be, the inputs or input services used in such goods,-\n(i) if the goods are exported by sea or air, the date on which the ship or the aircraft in which such goods are loaded, leaves India; or\n(ii) if the goods are exported by land, the date on which such goods pass the frontier; or\n(iii) if the goods are exported by post, the date of despatch of goods by the Post Office concerned to a place outside India;\n(b) in the case of supply of goods regarded as deemed exports where a refund of tax paid is available in respect of the goods, the date on which the return relating to such deemed exports is furnished;\n(ba) in case of zero-rated supply of goods or services or both to a Special Economic Zone developer or a Special Economic Zone unit where a refund of tax paid is available in respect of such supplies themselves, or as the case may be, the inputs or input services used in such supplies, the due date for furnishing of return under section 39 in respect of such supplies;\n(c) in the case of services exported out of India where a refund of tax paid is available in respect of services themselves or, as the case may be, the inputs or input services used in such services, the date of-\n(i) receipt of payment in convertible foreign exchange or in Indian rupees wherever permitted by the Reserve Bank of India, where the supply of services had been completed prior to the receipt of such payment; or\n(ii) issue of invoice, where payment for the services had been received in advance prior to the date of issue of the invoice;\n(d) in case where the tax becomes refundable as a consequence of judgment, decree, order or direction of the Appellate Authority, Appellate Tribunal or any court, the date of communication of such judgment, decree, order or direction;\n(e) in the case of refund of unutilised input tax credit under clause (ii) of the first proviso to sub-section (3), the due date for furnishing of return under section 39 for the period in which such claim for refund arises;\n(f) in the case where tax is paid provisionally under this Act or the rules made thereunder, the date of adjustment of tax after the final assessment thereof;\n(g) in the case of a person, other than the supplier, the date of receipt of goods or services or both by such person; and\n(h) in any other case, the date of payment of tax.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s49",
+      "text": "Section 49"
+    },
+    {
+      "type": "section",
+      "id": "s55",
+      "text": "Section 55"
+    },
+    {
+      "type": "section",
+      "id": "s33",
+      "text": "Section 33"
+    },
+    {
+      "type": "section",
+      "id": "s57",
+      "text": "Section 57"
+    },
+    {
+      "type": "section",
+      "id": "s77",
+      "text": "Section 77"
+    },
+    {
+      "type": "section",
+      "id": "s56",
+      "text": "Section 56"
+    },
+    {
+      "type": "section",
+      "id": "s27",
+      "text": "Section 27"
+    },
+    {
+      "type": "section",
+      "id": "s39",
+      "text": "Section 39"
+    }
+  ]
+},
+    {
+  "id": "s55",
+  "number": "55",
+  "heading": "Refund in certain cases",
+  "content": "The Government may, on the recommendations of the Council, by notification, specify any specialised agency of the United Nations Organisation or any Multilateral Financial Institution and Organisation notified under the United Nations (Privileges and Immunities) Act, 1947 (46 of 1947), Consulate or Embassy of foreign countries and any other person or class of persons as may be specified in this behalf, who shall, subject to such conditions and restrictions as may be prescribed, be entitled to claim a refund of taxes paid on the notified supplies of goods or services or both received by them.",
+  "references": []
+},
+{
+  "id": "s56",
+  "number": "56",
+  "heading": "Interest on delayed refunds",
+  "content": "If any tax ordered to be refunded under sub-section (5) of section 54 to any applicant is not refunded within sixty days from the date of receipt of application under sub-section (1) of that section, interest at such rate not exceeding six per cent. as may be specified in the notification issued by the Government on the recommendations of the Council shall be payable in respect of such refund for the period of delay beyond sixty days from the date of receipt of such application till the date of refund of such tax, to be computed in such manner and subject to such conditions and restrictions as may be prescribed:\nProvided that where any claim of refund arises from an order passed by an adjudicating authority or Appellate Authority or Appellate Tribunal or court which has attained finality and the same is not refunded within sixty days from the date of receipt of application filed consequent to such order, interest at such rate not exceeding nine per cent. as may be notified by the Government on the recommendations of the Council shall be payable in respect of such refund from the date immediately after the expiry of sixty days from the date of receipt of application till the date of refund.\nExplanation.-For the purposes of this section, where any order of refund is made by an Appellate Authority, Appellate Tribunal or any court against an order of the proper officer under sub-section (5) of section 54, the order passed by the Appellate Authority, Appellate Tribunal or by the court shall be deemed to be an order passed under the said sub-section (5).",
+  "references": [
+    {
+      "type": "section",
+      "id": "s54",
+      "text": "Section 54"
+    }
+  ]
+},
+{
+  "id": "s57",
+  "number": "57",
+  "heading": "Consumer Welfare Fund",
+  "content": "The Government shall constitute a Fund, to be called the Consumer Welfare Fund and there shall be credited to the Fund,-\n(a) the amount referred to in sub-section (5) of section 54;\n(b) any income from investment of the amount credited to the Fund; and\n(c) such other monies received by it,\nin such manner as may be prescribed.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s54",
+      "text": "Section 54"
+    }
+  ]
+},
+{
+  "id": "s58",
+  "number": "58",
+  "heading": "Utilisation of Fund",
+  "content": "(1) All sums credited to the Fund shall be utilised by the Government for the welfare of the consumers in such manner as may be prescribed.\n\n(2) The Government or the authority specified by it shall maintain proper and separate account and other relevant records in relation to the Fund and prepare an annual statement of accounts in such form as may be prescribed in consultation with the Comptroller and Auditor-General of India.",
+  "references": []
+},
+{
+  "id": "s59",
+  "number": "59",
+  "heading": "Self-assessment",
+  "content": "Every registered person shall self-assess the taxes payable under this Act and furnish a return for each tax period as specified under section 39.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s39",
+      "text": "Section 39"
+    }
+  ]
+},
+{
+  "id": "s60",
+  "number": "60",
+  "heading": "Provisional assessment",
+  "content": "(1) Subject to the provisions of sub-section (2), where the taxable person is unable to determine the value of goods or services or both or determine the rate of tax applicable thereto, he may request the proper officer in writing giving reasons for payment of tax on provisional basis and the proper officer shall pass an order, within a period not later than ninety days from the date of receipt of such request, allowing payment of tax on provisional basis at such rate or on such value as may be specified by him.\n\n(2) The payment of tax on provisional basis may be allowed, if the taxable person executes a bond in such form as may be prescribed, and with such surety or security as the proper officer may deem fit, binding the taxable person for payment of the difference between the amount of tax as may be finally assessed and the amount of tax provisionally assessed.\n\n(3) The proper officer shall, within a period not exceeding six months from the date of the communication of the order issued under sub-section (1), pass the final assessment order after taking into account such information as may be required for finalizing the assessment:\nProvided that the period specified in this sub-section may, on sufficient cause being shown and for reasons to be recorded in writing, be extended by the Joint Commissioner or Additional Commissioner for a further period not exceeding six months and by the Commissioner for such further period not exceeding four years.\n\n(4) The registered person shall be liable to pay interest on any tax payable on the supply of goods or services or both under provisional assessment but not paid on the due date specified under sub-section (7) of section 39 or the rules made thereunder, at the rate specified under sub-section (1) of section 50, from the first day after the due date of payment of tax in respect of the said supply of goods or services or both till the date of actual payment, whether such amount is paid before or after the issuance of order for final assessment.\n\n(5) Where the registered person is entitled to a refund consequent to the order of final assessment under sub-section (3), subject to the provisions of sub-section (8) of section 54, interest shall be paid on such refund as provided in section 56.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s39",
+      "text": "Section 39"
+    },
+    {
+      "type": "section",
+      "id": "s50",
+      "text": "Section 50"
+    },
+    {
+      "type": "section",
+      "id": "s54",
+      "text": "Section 54"
+    },
+    {
+      "type": "section",
+      "id": "s56",
+      "text": "Section 56"
+    }
+  ]
+},
+{
+  "id": "s61",
+  "number": "61",
+  "heading": "Scrutiny of returns",
+  "content": "(1) The proper officer may scrutinize the return and related particulars furnished by the registered person to verify the correctness of the return and inform him of the discrepancies noticed, if any, in such manner as may be prescribed and seek his explanation thereto.\n\n(2) In case the explanation is found acceptable, the registered person shall be informed accordingly and no further action shall be taken in this regard.\n\n(3) In case no satisfactory explanation is furnished within a period of thirty days of being informed by the proper officer or such further period as may be permitted by him or where the registered person, after accepting the discrepancies, fails to take the corrective measure in his return for the month in which the discrepancy is accepted, the proper officer may initiate appropriate action including those under section 65 or section 66 or section 67, or proceed to determine the tax and other dues under section 73 or section 74 or section 74A.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s65",
+      "text": "Section 65"
+    },
+    {
+      "type": "section",
+      "id": "s66",
+      "text": "Section 66"
+    },
+    {
+      "type": "section",
+      "id": "s67",
+      "text": "Section 67"
+    },
+    {
+      "type": "section",
+      "id": "s73",
+      "text": "Section 73"
+    },
+    {
+      "type": "section",
+      "id": "s74",
+      "text": "Section 74"
+    },
+    {
+      "type": "section",
+      "id": "s74A",
+      "text": "Section 74A"
+    }
+  ]
+},
+{
+  "id": "s62",
+  "number": "62",
+  "heading": "Assessment of non-filers of returns",
+  "content": "(1) Notwithstanding anything to the contrary contained in section 73 or section 74 or section 74A, where a registered person fails to furnish the return under section 39 or section 45, even after the service of a notice under section 46, the proper officer may proceed to assess the tax liability of the said person to the best of his judgement taking into account all the relevant material which is available or which he has gathered and issue an assessment order within a period of five years from the date specified under section 44 for furnishing of the annual return for the financial year to which the tax not paid relates.\n\n(2) Where the registered person furnishes a valid return within sixty days of the service of the assessment order under sub-section (1), the said assessment order shall be deemed to have been withdrawn but the liability for payment of interest under sub-section (1) of section 50 or for payment of late fee under section 47 shall continue:\nProvided that where the registered person fails to furnish a valid return within sixty days of the service of the assessment order under sub-section (1), he may furnish the same within a further period of sixty days on payment of an additional late fee of one hundred rupees for each day of delay beyond sixty days of the service of the said assessment order and in case he furnishes valid return within such extended period, the said assessment order shall be deemed to have been withdrawn, but the liability to pay interest under sub-section (1) of section 50 or to pay late fee under section 47 shall continue.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s73",
+      "text": "Section 73"
+    },
+    {
+      "type": "section",
+      "id": "s74",
+      "text": "Section 74"
+    },
+    {
+      "type": "section",
+      "id": "s74A",
+      "text": "Section 74A"
+    },
+    {
+      "type": "section",
+      "id": "s39",
+      "text": "Section 39"
+    },
+    {
+      "type": "section",
+      "id": "s45",
+      "text": "Section 45"
+    },
+    {
+      "type": "section",
+      "id": "s46",
+      "text": "Section 46"
+    },
+    {
+      "type": "section",
+      "id": "s44",
+      "text": "Section 44"
+    },
+    {
+      "type": "section",
+      "id": "s50",
+      "text": "Section 50"
+    },
+    {
+      "type": "section",
+      "id": "s47",
+      "text": "Section 47"
+    }
+  ]
+},
+    {
   "id": "s148",
   "number": "148",
   "heading": "Special procedure for certain processes",
