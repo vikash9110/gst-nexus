@@ -192,6 +192,111 @@
   "heading": "Refund of integrated tax paid on supply of goods to tourist leaving India",
   "content": "The integrated tax paid by tourist leaving India on any supply of goods taken out of India by him shall be refunded in such manner and subject to such conditions and safeguards as may be prescribed.\n\nExplanation. -For the purposes of this section, the term \"tourist\" means a person not normally resident in India, who enters India for a stay of not more than six months for legitimate non-immigrant purposes.",
   "references": []
-}    
+},
+    {
+  "id": "igst-s16",
+  "number": "16",
+  "heading": "Zero rated supply",
+  "content": "(1) \"zero rated supply\" means any of the following supplies of goods or services or both, namely: -\n(a) export of goods or services or both; or\n(b) supply of goods or services or both for authorised operations to a Special Economic Zone developer or a Special Economic Zone unit.\n\n(2) Subject to the provisions of sub-section (5) of section 17 of the Central Goods and Services Tax Act, credit of input tax may be availed for making zero-rated supplies, notwithstanding that such supply may be an exempt supply.\n\n(3) A registered person making zero rated supply shall be eligible to claim refund of unutilised input tax credit on supply of goods or services or both, without payment of integrated tax, under bond or Letter of Undertaking, in accordance with the provisions of section 54 of the Central Goods and Services Tax Act or the rules made thereunder, subject to such conditions, safeguards and procedure as may be prescribed:\n\nProvided that the registered person making zero rated supply of goods shall, in case of non-realisation of sale proceeds, be liable to deposit the refund so received under this sub-section along with the applicable interest under section 50 of the Central Goods and Services Tax Act within thirty days after the expiry of the time limit prescribed under the Foreign Exchange Management Act, 1999 (42 of 1999) for receipt of foreign exchange remittances, in such manner as may be prescribed.\n\n(4) The Government may, on the recommendation of the Council, and subject to such conditions, safeguards and procedures, by notification, specify-\n(i) a class of persons who may make zero rated supply on payment of integrated tax and claim refund of the tax so paid in accordance with the provisions of section 54 of the Central Goods and Services Tax Act or the rules made thereunder;\n(ii) a class of goods or services or both, on zero rated supply of which, the supplier may pay integrated tax and claim the refund of tax so paid, in accordance with the provisions of section 54 of the Central Goods and Services Tax Act or the rules made thereunder.\n\n(5) Notwithstanding anything contained in sub-sections (3) and (4), no refund of unutilised input tax credit on account of zero rated supply of goods or of integrated tax paid on account of zero rated supply of goods shall be allowed where such zero rated supply of goods are subjected to export duty.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s17",
+      "text": "CGST Act, Section 17"
+    },
+    {
+      "type": "section",
+      "id": "s54",
+      "text": "CGST Act, Section 54"
+    },
+    {
+      "type": "section",
+      "id": "s50",
+      "text": "CGST Act, Section 50"
+    }
+  ]
+},
+{
+  "id": "igst-s17",
+  "number": "17",
+  "heading": "Apportionment of tax and settlement of funds",
+  "content": "(1) Out of the integrated tax paid to the Central Government,-\n(a) in respect of inter-State supply of goods or services or both to an unregistered person or to a registered person paying tax under section 10 of the Central Goods and Services Tax Act;\n(b) in respect of inter-State supply of goods or services or both where the registered person is not eligible for input tax credit;\n(c) in respect of inter-State supply of goods or services or both made in a financial year to a registered person, where he does not avail of the input tax credit within the specified period and thus remains in the integrated tax account after expiry of the due date for furnishing of annual return for such year in which the supply was made;\n(d) in respect of import of goods or services or both by an unregistered person or by a registered person paying tax under section 10 of the Central Goods and Services Tax Act;\n(e) in respect of import of goods or services or both where the registered person is not eligible for input tax credit;\n(f) in respect of import of goods or services or both made in a financial year by a registered person, where he does not avail of the said credit within the specified period and thus remains in the integrated tax account after expiry of the due date for furnishing of annual return for such year in which the supply was received,\nthe amount of tax calculated at the rate equivalent to the central tax on similar intra-State supply shall be apportioned to the Central Government.\n\n(2) The balance amount of integrated tax remaining in the integrated tax account in respect of the supply for which an apportionment to the Central Government has been done under sub-section (1) shall be apportioned to the,-\n(a) State where such supply takes place; and\n(b) Central Government where such supply takes place in a Union territory:\n\nProvided that where the place of such supply made by any taxable person cannot be determined separately, the said balance amount shall be apportioned to,-\n(a) each of the States; and\n(b) Central Government in relation to Union territories,\nin proportion to the total supplies made by such taxable person to each of such States or Union territories, as the case may be, in a financial year:\n\nProvided further that where the taxable person making such supplies is not identifiable, the said balance amount shall be apportioned to all States and the Central Government in proportion to the amount collected as State tax or, as the case may be, Union territory tax, by the respective State or, as the case may be, by the Central Government during the immediately preceding financial year.\n\n(2A) The amount not apportioned under sub-section (1) and sub-section (2) may, for the time being, on the recommendations of the Council, be apportioned at the rate of fifty per cent. to the Central Government and fifty per cent. to the State Governments or the Union territories, as the case may be, on ad hoc basis and shall be adjusted against the amount apportioned under the said sub-sections.\n\n(3) The provisions of sub-sections (1) and (2) relating to apportionment of integrated tax shall, mutatis mutandis, apply to the apportionment of interest, penalty and compounding amount realised in connection with the tax so apportioned.\n\n(4) Where an amount has been apportioned to the Central Government or a State Government under sub-section (1) or sub-section (2) or sub-section (3), the amount collected as integrated tax shall stand reduced by an amount equal to the amount so apportioned and the Central Government shall transfer to the central tax account or Union territory tax account, an amount equal to the respective amounts apportioned to the Central Government and shall transfer to the State tax account of the respective States an amount equal to the amount apportioned to that State, in such manner and within such time as may be prescribed.\n\n(5) Any integrated tax apportioned to a State or, as the case may be, to the Central Government on account of a Union territory, if subsequently found to be refundable to any person and refunded to such person, shall be reduced from the amount to be apportioned under this section, to such State, or Central Government on account of such Union territory, in such manner and within such time as may be prescribed.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s10",
+      "text": "CGST Act, Section 10"
+    }
+  ]
+},
+{
+  "id": "igst-s17A",
+  "number": "17A",
+  "heading": "Transfer of Certain Amounts",
+  "content": "Where any amount has been transferred from the electronic cash ledger under this Act to the electronic cash ledger under the State Goods and Services Tax Act or the Union Territory Goods and Services Tax Act, the Government shall transfer to the State tax account or the Union territory tax account, an amount equal to the amount transferred from the electronic cash ledger, in such manner and within such time, as may be prescribed.",
+  "references": []
+},
+{
+  "id": "igst-s18",
+  "number": "18",
+  "heading": "Transfer of input tax credit",
+  "content": "On utilisation of credit of integrated tax availed under this Act for payment of,-\n(a) central tax in accordance with the provisions of sub-section (5) of section 49 of the Central Goods and Services Tax Act, the amount collected as integrated tax shall stand reduced by an amount equal to the credit so utilised and the Central Government shall transfer an amount equal to the amount so reduced from the integrated tax account to the central tax account in such manner and within such time as may be prescribed;\n(b) Union territory tax in accordance with the provisions of section 9 of the Union Territory Goods and Services Tax Act, the amount collected as integrated tax shall stand reduced by an amount equal to the credit so utilised and the Central Government shall transfer an amount equal to the amount so reduced from the integrated tax account to the Union territory tax account in such manner and within such time as may be prescribed;\n(c) State tax in accordance with the provisions of the respective State Goods and Services Tax Act, the amount collected as integrated tax shall stand reduced by an amount equal to the credit so utilised and shall be apportioned to the appropriate State Government and the Central Government shall transfer the amount so apportioned to the account of the appropriate State Government in such manner and within such time as may be prescribed.\n\nExplanation.-For the purposes of this Chapter, \"appropriate State\" in relation to a taxable person, means the State or Union territory where he is registered or is liable to be registered under the provisions of the Central Goods and Services Tax Act.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s49",
+      "text": "CGST Act, Section 49"
+    }
+  ]
+},
+{
+  "id": "igst-s19",
+  "number": "19",
+  "heading": "Tax wrongfully collected and paid to Central Government or State Government",
+  "content": "(1) A registered person who has paid integrated tax on a supply considered by him to be an inter-State supply, but which is subsequently held to be an intra-State supply, shall be granted refund of the amount of integrated tax so paid in such manner and subject to such conditions as may be prescribed.\n\n(2) A registered person who has paid central tax and State tax or Union territory tax, as the case may be, on a transaction considered by him to be an intra-State supply, but which is subsequently held to be an inter-State supply, shall not be required to pay any interest on the amount of integrated tax payable.",
+  "references": []
+},
+{
+  "id": "igst-s20",
+  "number": "20",
+  "heading": "Application of provisions of Central Goods and Services Tax Act",
+  "content": "Subject to the provisions of this Act and the rules made thereunder, the provisions of Central Goods and Services Tax Act relating to,-\n(i) scope of supply;\n(ii) composite supply and mixed supply;\n(iii) time and value of supply;\n(iv) input tax credit;\n(v) registration;\n(vi) tax invoice, credit and debit notes;\n(vii) accounts and records;\n(viii) returns, other than late fee;\n(ix) payment of tax;\n(x) tax deduction at source;\n(xi) collection of tax at source;\n(xii) assessment;\n(xiii) refunds;\n(xiv) audit;\n(xv) inspection, search, seizure and arrest;\n(xvi) demands and recovery;\n(xvii) liability to pay in certain cases;\n(xviii) advance ruling;\n(xix) appeals and revision;\n(xx) presumption as to documents;\n(xxi) offences and penalties;\n(xxii) job work;\n(xxiii) electronic commerce;\n(xxiv) transitional provisions; and\n(xxv) miscellaneous provisions including the provisions relating to the imposition of interest and penalty,\nshall, mutatis mutandis, apply, so far as may be, in relation to integrated tax as they apply in relation to central tax as if they are enacted under this Act:\n\nProvided that in the case of tax deducted at source, the deductor shall deduct tax at the rate of two per cent. from the payment made or credited to the supplier:\n\nProvided further that in the case of tax collected at source, the operator shall collect tax at such rate not exceeding two per cent, as may be notified on the recommendations of the Council, of the net value of taxable supplies:\n\nProvided also that for the purposes of this Act, the value of a supply shall include any taxes, duties, cesses, fees and charges levied under any law for the time being in force other than this Act, and the Goods and Services Tax (Compensation to States) Act, if charged separately by the supplier:\n\nProvided also that in cases where the penalty is leviable under the Central Goods and Services Tax Act and the State Goods and Services Tax Act or the Union Territory Goods and Services Tax Act, the penalty leviable under this Act shall be the sum total of the said penalties.\n\nProvided also that a maximum amount of forty crore rupees shall be payable for each appeal to be filed before the Appellate Authority or the Appellate Tribunal.",
+  "references": []
+},
+{
+  "id": "igst-s21",
+  "number": "21",
+  "heading": "Import of services made on or after the appointed day",
+  "content": "Import of services made on or after the appointed day shall be liable to tax under the provisions of this Act regardless of whether the transactions for such import of services had been initiated before the appointed day:\n\nProvided that if the tax on such import of services had been paid in full under the existing law, no tax shall be payable on such import under this Act:\n\nProvided further that if the tax on such import of services had been paid in part under the existing law, the balance amount of tax shall be payable on such import under this Act.\n\nExplanation.-For the purposes of this section, a transaction shall be deemed to have been initiated before the appointed day if either the invoice relating to such supply or payment, either in full or in part, has been received or made before the appointed day.",
+  "references": []
+},
+{
+  "id": "igst-s22",
+  "number": "22",
+  "heading": "Power to make rules",
+  "content": "(1) The Government may, on the recommendations of the Council, by notification, make rules for carrying out the provisions of this Act.\n\n(2) Without prejudice to the generality of the provisions of sub-section (1), the Government may make rules for all or any of the matters which by this Act are required to be, or may be, prescribed or in respect of which provisions are to be or may be made by rules.\n\n(3) The power to make rules conferred by this section shall include the power to give retrospective effect to the rules or any of them from a date not earlier than the date on which the provisions of this Act come into force.\n\n(4) Any rules made under sub-section (1) may provide that a contravention thereof shall be liable to a penalty not exceeding ten thousand rupees.",
+  "references": []
+},
+{
+  "id": "igst-s23",
+  "number": "23",
+  "heading": "Power to make regulations",
+  "content": "The Board may, by notification, make regulations consistent with this Act and the rules made thereunder to carry out the provisions of this Act.",
+  "references": []
+},
+{
+  "id": "igst-s24",
+  "number": "24",
+  "heading": "Laying of rules, regulations and notifications",
+  "content": "Every rule made by the Government, every regulation made by the Board and every notification issued by the Government under this Act, shall be laid, as soon as may be, after it is made or issued, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or regulation or in the notification, as the case may be, or both Houses agree that the rule or regulation or the notification should not be made, the rule or regulation or notification, as the case may be, shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation or notification, as the case may be.",
+  "references": []
+},
+{
+  "id": "igst-s25",
+  "number": "25",
+  "heading": "Removal of difficulties",
+  "content": "(1) If any difficulty arises in giving effect to any provision of this Act, the Government may, on the recommendations of the Council, by a general or a special order published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act or the rules or regulations made thereunder, as may be necessary or expedient for the purpose of removing the said difficulty:\n\nProvided that no such order shall be made after the expiry of a period of five years from the date of commencement of this Act.\n\n(2) Every order made under this section shall be laid, as soon as may be, after it is made, before each House of Parliament.",
+  "references": []
+}
   ]
 }
